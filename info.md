@@ -37,11 +37,17 @@ permalink: /info
 
 # Witaj
 
-Witaj na kanale [{{ site.data.social.twitch }}](https://twitch.tv/{{ site.data.social.twitch }}) . Ten stream korzysta z moda [Twitch Toolkit](https://steamcommunity.com/sharedfiles/filedetails/?id=1718525787) aby zapewnić interakcję między twórcą, a widzami. Jest tutaj wiele rzeczy, które mogą wydawać się skomplikowane nawet dla bardziej doświadczonych użytkowników, ale ten krótki przewodnik pomoże ci ogarnąć wszystko.
+Witaj na kanale [{{ site.data.social.twitch }}](https://twitch.tv/{{ site.data.social.twitch }}) . Ten stream korzysta z moda [Twitch Toolkit](https://steamcommunity.com/sharedfiles/filedetails/?id=1718525787) aby zapewnić interakcję między twórcą, a widzami. Jest tutaj wiele rzeczy które mogą wydawać się skomplikowane nawet dla bardziej doświadczonych użytkowników, ale ten krótki przewodnik pomoże ci ogarnąć wszystko.
 
 ## Czym jest Twitch Toolkit?
 
-Twitch Toolkit jest modem stworzonym przez hodlhodl który pozwala widzom wpływać na rozgrywkę na wiele różnych sposobów. Najbardziej wyróżniającym się sposobem jest sklep - [store]({{- "/" | relative_url -}}), który pozwala Ci kupować rzeczy, które mają pomóc streamerowi w rozgrywce. W zależności od zakupu, te rzeczy pojawią się w grze lub w pewien sposób wpłyną na rozgrywkę. Innym sposobem w jaki widz może wpływać na rozgrywkę są ankiety wywoływane przez mod. Wybory których będziesz dokonywać w ankiecie są uzależnione od tego, które opcje w modzie są włączone.
+Twitch Toolkit jest modem stworzonym przez hodlhodl który pozwala widzom wpływać na rozgrywkę na wiele różnych sposobów. Najbardziej wyróżniającym się sposobem jest sklep - [store]({{- "/" | relative_url -}}), który pozwala Ci kupować rzeczy, które mają pomóc streamerowi w rozgrywce. W zależności od zakupu rzeczy te pojawią się w grze lub w pewien sposób wpłyną na rozgrywkę. Innym sposobem w jaki widz może wpływać na rozgrywkę są ankiety wywoływane przez mod. Wybory których będziesz dokonywać w ankiecie są uzależnione od tego, które opcje w modzie są włączone.
+
+## Jak dołączyć do koloni?
+Aby dołączyć do rozgrywki skorzystaj z którejś z poniższych komend:
+`!joinqueue` - dołączasz do losowania o dołączenie do koloni
+`!buy pawn` - z miejsca dołączasz do koloni
+`!buy prisoner` - twój kolonista dołącza do koloni jako więzień i musi zostać przekonany aby dołączył do koloni
 
 ## Czym są monety?
 
@@ -66,11 +72,11 @@ Dostaniesz wiadomość od bota jeśli otrzymasz lootboxa. Możesz otworzyć loot
 <br/>
 ## Czym jest Karma?
 
-Karma jest systemem w modzie który próbuje ograniczać ilość negatywnych wydarzeń, które widz może zrzucić streamerowi na głowę w jednym momencie. Ten system działa poprzez modyfikowanie przychodu który widz dostaje w momencie rozdawania monet przez mod. To oznacza że, im mniejszą masz karmę, tym mniej monet dostaniesz. 
+Karma jest systemem w modzie który próbuje ograniczać ilość negatywnych wydarzeń, które widz może zrzucić streamerowi na głowę w jednym momencie. Ten system działa poprzez modyfikowanie przychodu który widz dostaje w momencie rozdawania monet przez mod. To oznacza że im mniejszą masz karmę, tym mniej monet dostaniesz. 
 
 ## W jaki sposób używać Twitch Toolkit?
 
-Możesz używać Twitch Toolkit na wiele sposobów -- najczęściej korzystasz z niego poprzez komendy - [commands]({{- "/commands" | relative_url -}}). Jedną z ważniejszych komend jest komenda `{{- buy -}}`, która pozwala na kupowanie rzeczy ze sklepu. Inną godną napomnienia komendą jest komenda `!mypawn`, która pozwala Tobie na zobaczenie informacji o swoim koloniście. Nie opiszemy tutaj każej z komend, ale większość z nich powinna sama z nazwy mówić Wam o swojej funkcji albo mieć opis tego co robi na stronie Komendy - [commands]({{- "/commands" | relative_url -}}) .
+Możesz używać Twitch Toolkit na wiele sposobów -- najczęściej korzystasz z niego poprzez komendy - [commands]({{- "/commands" | relative_url -}}). Jedną z ważniejszych komend jest komenda `{{- buy -}}` która pozwala na kupowanie rzeczy ze sklepu. Inną godną napomnienia komendą jest komenda `!mypawn`, która pozwala Tobie na zobaczenie informacji o swoim koloniście. Nie opiszemy tutaj każej z komend, ale większość z nich powinna sama z nazwy mówić Wam o swojej funkcji albo mieć opis tego co robi na stronie Komendy - [commands]({{- "/commands" | relative_url -}}) .
 
 
 {%- if puppeteer -%}
