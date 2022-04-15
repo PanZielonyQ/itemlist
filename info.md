@@ -59,7 +59,7 @@ Po wpisaniu komendy bal może wyświetlić Ci się parę dodatkowych emotek. W t
 
 
 {%- if lootboxes == true -%}
-Dostaniesz wiadomość od bota jeśli otrzymasz lootboxa. Możesz otworzyć tego lootboxa używając komendy`!openlootbox`, ilość lootboxów które posiadasz możesz sprawdzić korzystając z komendy `!lootboxes`. Codziennie dostaniesz nowego lootboxa.
+Dostaniesz wiadomość od bota jeśli otrzymasz lootboxa. Możesz otworzyć lootboxa używając komendy`!openlootbox`. Ilość lootboxów które posiadasz możesz sprawdzić korzystając z komendy `!lootboxes`. Codziennie dostaniesz nowego lootboxa.
 {%- endif -%}
 
 
