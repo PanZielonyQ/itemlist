@@ -46,9 +46,9 @@ Twitch Toolkit jest modem stworzonym przez hodlhodl który pozwala widzom wpływ
 ## Jak dołączyć do koloni?
 Aby dołączyć do rozgrywki skorzystaj z którejś z poniższych komend:
 
-- `!joinqueue` - dołączasz do losowania o dołączenie do koloni
+- `!joinqueue` - dołączasz do losowania o miejsce w koloni
 - `!buy pawn` - z miejsca dołączasz do koloni
-- `!buy prisoner` - twój kolonista dołącza do koloni jako więzień i musi zostać przekonany aby dołączył do koloni
+- `!buy prisoner` - twój kolonista dołącza do koloni jako więzień i musi zostać przekabacony, aby brać udział w życiu koloni
 
 ## Czym są monety?
 
