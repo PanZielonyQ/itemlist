@@ -1,7 +1,7 @@
-﻿{
+{
   "traits": [
     {
-      "description": "Timmy uwielbia doświadczać uczucia wolności wynikającej z nagości. Może nosić ubrania, ale czuje się PAWN_gender ? szczęśliwszy : szczęśliwsza bez nich.",
+      "description": "Timmy naprawdę lubi uczucie pochodzące z bycia nagim. Może wytrzymać w ubraniach, ale jest szczęśliwszy bez nich.",
       "stats": [
 
       ],
@@ -31,7 +31,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy czerpie satysfakcję z krzywdzenia innych, nie przejmuje się widokiem krwi lub śmierci. Ma cztery razy większą szansę niż inni na rozpoczęcie walki z inną osobą.",
+      "description": "Timmy czerpie przyjemność z krzywdzenia ludzi i nie ma nic przeciwko widokowi krwi lub śmierci. Ma czterokrotnie większą szansę na wywołanie bójki niż pozostali.",
       "stats": [
         "Morbidowy meditation focus type allowed."
       ],
@@ -61,7 +61,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy jest wyjątkowo sympatyczną osobą. Nigdy nie obraża innych i czasami używa miłych słów, aby umilić dzień osobom w okół siebie. Nigdy nie ocenia ludzi po wyglądzie.",
+      "description": "Timmy jest nadzwyczaj zgodną i empatyczną osobą. Nigdy nie obraża innych i często mówi miłe słowa aby poprawić nastrój ludzi wokół niego. Nigdy nie ocenia innych ze względu na ich wygląd. Jego bycie zgodnym czyni go bardziej skłonnym do zgadzania się z opiniami innych.",
       "stats": [
         "x200% globalny współczynnik utraty pewności"
       ],
@@ -93,7 +93,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy nie posiada empatii. Ani trochę nie przejmuje się cierpieniem innych. Podchodzi obojętnie do tego, że inni są oprawiani, więzieni, sprzedawani jako niewolnicy czy też pozostają niepogrzebani - jeśli to PAWN_gender ? jego : jej nie dotyczy. Nie odczuwa też poprawy nastroju w związku z przebywaniem w otoczeniu z innymi osobami.",
+      "description": "Timmy nie posiada empatii. Cierpienie innych nie ma na niego wpływu. Nie obchodzi go jeśli inni zostaną zabici, zostawieni niepochowanymi, uwięzionymi lub sprzedanymi do niewoli - chyba że dotyczy to jego. Nie dostaje bonusów do nastroju wynikających z obcowania z innymi.",
       "stats": [
         "Morbidowy meditation focus type allowed."
       ],
@@ -123,7 +123,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy uczono, że jedzenie ludzkiego mięsa jest okropne i złe. Ale kiedyś, dawno temu, PAWN_gender ? postanowił : postanowiła spróbować... i PAWN_gender ? mu : jej posmakowało.",
+      "description": "Timmy został nauczony że jedzenie ludzkiego miejsca jest złe i okropne. Pewnego razu, dawno temu, spróbował... i je polubił.",
       "stats": [
         "Morbidowy meditation focus type allowed."
       ],
@@ -153,7 +153,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy zawsze mówi to, co ma na myśli. Zwłaszcza kiedy coś się PAWN_gender ? jemu : jej nie podoba. To zwykle drażni ludzi.",
+      "description": "Timmy zawsze mówi dokładnie to co ma na myśli. Zwłaszcza jeśli mówi to w emocjach. Powoduje to że jest źle odbierany przez ludzi.",
       "stats": [
         "x50% globalny współczynnik utraty pewności"
       ],
@@ -183,7 +183,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy to niesamowicie inteligentna osoba. Uczy się wszystkiego znacznie szybciej, ale PAWN_gender ? jego : jej zachowanie może być postrzegane jako nieco ekscentryczne.",
+      "description": "Timmy jest bardzo mądry. Uczy się wszystkiego dużo szybciej niż inni, ale może być trochę ekscentryczny.",
       "stats": [
         "+75% global learning factor",
         "+12% mental break threshold"
@@ -223,7 +223,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy lubi walczyć w zwarciu. Celność PAWN_gender ? jego : jej ciosów jest znacznie zwiększona. Ale będzie bardzo PAWN_gender ? nieszczęśliwy : nieszczęśliwa, jeśli zostanie PAWN_gender ? poproszony : poproszona o noszenie broni dystansowej.",
+      "description": "Timmy lubi walki w zwarciu. Jego celność jest znacznie zwiększona podczas walki wręcz. Będzie bardzo nieszczęśliwy jeśli poprosisz go o korzystanie z broni dystansowej.",
       "stats": [
         "Shoot frenzy inspiration disabled.",
         "+4 melee",
@@ -263,7 +263,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy odczuwa ból jako coś niesamowicie przyjemnego. Nie wie dlaczego, ale widocznie rożni się od innych.",
+      "description": "Timmy postrzega ból jako coś niesamowicie przyjemnego. Nie wie dlaczego, ale widocznie rożni się od innych.",
       "stats": [
         "Morbidowy meditation focus type allowed."
       ],
@@ -293,7 +293,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy lubi wstawać w nocy, a spać w dzień.\n\nDostaje bonus do nastroju jeśli nie śpi w nocy (23godz - 6godz) i go traci, gdy nie śpi w dzień (11godz - 18godz). Nie otrzymuje kary do nastroju, gdy przebywa w ciemności.",
+      "description": "Timmy lubi być aktywny w nocy i spać podczas dnia.\n\nOtrzymuje bonus do nastroju jeżeli wstaje w nocy (23h-06h) i karę do nastroju jeżeli wstaje w ciągu dnia (11h-18h).\n\n Nie dostaje kary do nastroju za przebywanie w ciemności.",
       "stats": [
 
       ],
@@ -323,7 +323,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy potrzebuje naprawdę imponującej sypialni. Ma gorszy nastrój, gdy nie otrzyma tego, czego chce.",
+      "description": "Timmy potrzebuje naprawdę imponującej sypialni. Dostaje karę do nastroju jeżeli nie dostaje tego czego chce.",
       "stats": [
 
       ],
@@ -355,7 +355,7 @@
       "degree": 0
     },
     {
-      "description": "Dla Timmy posiadanie gorszej sypialni od innych jest poniżające. Ma obniżony nastrój, jeżeli inna osoba z kolonii będzie miał lepszą.",
+      "description": "Dla Timmy'ego posiadanie gorszej sypialni od innych jest poniżające. Ma obniżony nastrój, jeżeli inna osoba z kolonii będzie miała lepszą.",
       "stats": [
         "Morbidowy meditation focus type allowed."
       ],
@@ -387,7 +387,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy PAWN_gender ? porzucił : porzuciła fizyczne wygody i przyjemności na rzecz prostego, czystego stylu życia. Unieszczęśliwi go zbyt imponująca sypialnia. Nie lubi również fantazyjnych potraw i woli jeść na surowo. Nigdy nie ocenia innych po wyglądzie.",
+      "description": "Timmy odrzucił swój komfort i przyjemności dla prostego życia. Będzie nieszczęśliwy jeśli jego sypialnia będzie zbyt imponująca. Nie lubi wyszukanego jedzenia i woli jeść rzeczy na surowo. Nigdy nie ocenia innych po wyglądzie.",
       "stats": [
         "Artystyczny meditation focus type disabled.",
         "Minimalny meditation focus type allowed."
@@ -453,7 +453,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy czuje pociąg zarówno do kobiet jak i mężczyzn.",
+      "description": "Timmy gustuje zarówno w mężczyznach jak i kobietach.",
       "stats": [
 
       ],
@@ -483,7 +483,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy w ogóle nie odczuwa pociągu do kogokolwiek.",
+      "description": "Timmy nie czuje pociągu seksualnego do nikogo.",
       "stats": [
 
       ],
@@ -513,7 +513,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy ma chroboczący głos i mówi jak przez nos, ma tendencję do mówienia szczekliwymi, zniekształconymi zwrotami. Przez co inni czują do PAWN_gender ? niego : niej niechęć.",
+      "description": "Głos Timmy'ego ma szczególnie chrapliwy, nosowy charakter, ma on tendencję do warczenia na innych zniekształconymi frazami. To powoduje że nie jest lubiany przez innych.",
       "stats": [
 
       ],
@@ -543,7 +543,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy cały czas ciężko oddycha i ciągle się poci. Ludzie uważają to za przerażające.",
+      "description": "Timmy oddycha ciężko przez cały czas i ciągle się poci. Ludzie uważają go za dziwaka.",
       "stats": [
 
       ],
@@ -573,7 +573,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy kocha ogień. Nigdy nie będzie go PAWN_gender ? gasił : gasiła. By złagodzić stres, czasami może wzniecać pożary. Będzie zdarzać się to częściej, gdy będzie w złym nastroju.",
+      "description": "Timmy kocha ogień. Nigdy nie gasi pożaru. Aby rozładować stres od czasu do czasu będzie wywoływał pożar. To będzie zdarzać się tym częściej im niższy nastrój będzie miał.",
       "stats": [
         "Only mental break \"FireStartingSpree\" allowed."
       ],
@@ -603,7 +603,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy jest PAWN_gender ? słaby : słaba i PAWN_gender ? tchórzliwy : tchórzliwa. Sparaliżuje PAWN_gender ? go : ją nawet najmniejszy ból.",
+      "description": "Timmy jest słaby i tchórzliwy. Nawet niewielka ilość bólu go unieruchamia.",
       "stats": [
         "-60% pain shock threshold"
       ],
@@ -635,7 +635,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy ma niezwykłą inteligencję kinestetyczną. Zdaje się tańczyć wokół niebezpieczeństwa z nadnaturalną gracją.",
+      "description": "Timmy ma wybitne zdolności ruchowe. Tańczy wokół zagrożenia z nadzwyczajną gracją.",
       "stats": [
         "+15.0 melee dodge chance",
         "x10% trap spring chance"
@@ -667,7 +667,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy ma talent do nauki. Łapie rzeczy znacznie szybciej niż inni.",
+      "description": "Timmy ma dryg do nauki. Chwyta wiedzę dużo szybciej niż inni.",
       "stats": [
         "+75% global learning factor"
       ],
@@ -697,7 +697,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy uczy się dużo wolniej od innych.",
+      "description": "Timmy ma problem ze zdobywaniem wiedzy. Uczy się dużo wolniej niż inni.",
       "stats": [
         "-75% global learning factor"
       ],
@@ -727,7 +727,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy nie ma potrzeby wychodzenia na zewnątrz czy przebywania na świetle dziennym. Nigdy nie będzie się PAWN_gender ? czuł : czuła jak w klatce i nie dozna klaustrofobii. Nie ważne jak długo będzie PAWN_gender ? przebywał : przebywała wewnątrz. Nie przejmuje się także ciemnością.",
+      "description": "Timmy nie ma potrzeby wychodzenia na dwór czy korzystania ze światła. Nigdy nie będzie miał ujemnego nastroju z powodu przebywania w zamknięciu, bez znaczenia jak długo zostanie w środku. Nie przeszkadza mu ciemność.",
       "stats": [
         "Morbidowy meditation focus type allowed."
       ],
@@ -757,7 +757,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy czuje ograniczenie, znajdując się w ludzkim ciele. Często śni o byciu ulepszonPAWN_gender ? ym : ą sztucznymi częściami ciała.",
+      "description": "Timmy czuje się ograniczony w słabym ludzkim ciele. Często marzy o byciu 'ulepszonym' za pomocą sztucznych części ciała.",
       "stats": [
 
       ],
@@ -787,7 +787,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy uważa, że ciało ludzkie nie bez powodu posiada ograniczenia. Sądzi, że sztuczne części ciała są nieetyczne i obrzydliwe.",
+      "description": "Timmy wierzy że ludzkie ciało nie zostało ograniczone bez powodu. Odbiera sztuczne części ciała jako nieetyczne i odrażające.",
       "stats": [
 
       ],
@@ -877,7 +877,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy ma fantastyczną pamięć do szczegółów. Będzie PAWN_gender ? tracił : traciła umiejętności z których nie korzysta o połowę wolniej od innych osób.",
+      "description": "Timmy ma fantastyczną pamięć. Będzie tracił nieużywane umiejętności w tempie zwolnionym o połowę w porównaniu do innych.",
       "stats": [
 
       ],
@@ -907,7 +907,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy ma grubą skórę, mięsiste ciało, oraz wytrzymałe kości. Otrzymuje znacznie mniej obrażeń niż inni ludzie przyjmując te same ciosy. Jest niezwykle trudnPAWN_gender ? y : a do zabicia.",
+      "description": "Timmy ma grubą skórę, mocne mięśnie i wytrzymałe kości. Otrzymuje mniej obrażeń od innych. Jest bardzo trudny do zabicia.",
       "stats": [
         "x50% incoming damage multiplier"
       ],
@@ -937,7 +937,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy czuje się wyobcowanPAWN_gender ? y : a i niezrozumiaPAWN_gender ? ny : na przez innych ludzi. Będzie miaPAWN_gender ? ł : ła stałe obniżenie nastroju, ale zyska szansę (50%) na inspirację kreatywnością po załamaniu psychicznym.",
+      "description": "Timmy czuje się odizolowany i nierozumiany przez innych. Będzie miał stałą karę do nastroju,ale zyska 50% szansę na zdobycie inspiracji po załamaniu psychicznym.",
       "stats": [
         "Morbidowy meditation focus type allowed."
       ],
@@ -967,7 +967,7 @@
       "degree": 0
     },
     {
-      "description": "Życie Timmy kręci się wokół jedzenia. Szybko głodnieje, a od czasu do czasu zawłada PAWN_gender ? nim : nią popęd żarłocznego jedzenia, nawet jeśli nie jest PAWN_gender ? głodny : głodna.",
+      "description": "Życie Timmy'ego obraca się wokół jedzenia. Szybko robi się głodny i od czasu do czasu ogarnia go chęć łapczywego jedzenia, pomimo tego że nie jest głodny.",
       "stats": [
         "Only mental break \"Binging_Food\" allowed.",
         "+4 cooking"
@@ -999,7 +999,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy nie potrzebuje tyle snu co przeciętna osoba. Nie ważne czy śpi na podłodze czy na łóżku, zawsze będzie w pełni PAWN_gender ? wypoczęty : wypoczęta w przeciągu dwóch trzecich typowego czasu.",
+      "description": "Timmy nie potrzebuje tak dużo snu jak zwykła osoba. Nie ma znaczenia czy śpi w łóżku czy na podłodze, będzie w pełni wypoczęty w około dwie trzecie normalnego czasu.",
       "stats": [
         "+50% rest rate multiplier"
       ],
@@ -1029,7 +1029,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy zawsze zostaje w tyle grupy, gdziekolwiek by się nie ruszyPAWN_gender ? ł : ła.",
+      "description": "Timmy zawsze nie nadąża za grupą jeśli gdzieś wychodzą.",
       "stats": [
         "Go frenzy inspiration disabled.",
         "-0.20 move speed"
@@ -1091,7 +1091,7 @@
       "degree": 1
     },
     {
-      "description": "Timmy uwija się szybciej niż mrówki. Pozostali mają problem, by za PAWN_gender ? nim : nią nadążyć.",
+      "description": "Timmy pędzi gdzieś w pośpiechu - tak bardzo że inni często za nim nie nadążają.",
       "stats": [
         "+0.40 move speed"
       ],
@@ -1121,7 +1121,7 @@
       "degree": 2
     },
     {
-      "description": "Timmy ma silną fascynację wszelakimi chemicznymi źródłami szczęścia. Spożyje ich ogromne ilości, a jeśli nie będzie jeszcze PAWN_gender ? zadowolony : zadowolona i PAWN_gender ? uzależniony : uzależniona od jakiejkolwiek używki, czasami może się udać na hardą, używkową bibę. Zignoruje zakazy zażywania uszczęśliwiających używek.",
+      "description": "Timmy jest zafascynowany przyjemnością płynącą z narkotyków. Rekreacyjne spożywanie ich powoduje u niego dobry nastrój, kiedy abstynencja prowadzi do wzrostu frustracji w miarę upływu czasu i spowoduje potrzebę sięgnięcia po narkotyki. Zignoruje zakazy korzystania z narkotyków i spożyje ich więcej niż normalna osoba.",
       "stats": [
 
       ],
@@ -1151,7 +1151,7 @@
       "degree": 2
     },
     {
-      "description": "Timmy podejrzanie często rozgląda się za używkami. Spożyje ich ogromne ilości, a jeśli nie będzie jeszcze PAWN_gender ? zadowolony : zadowolona i PAWN_gender ? uzależniony : uzależniona od jakiejkolwiek używki, czasami może się udać na społeczną, używkową bibę. Zignoruje zakazy zażywania uszczęśliwiających używek.",
+      "description": "Timmy jest niezwykle zainteresowany narkotykami. Spożywanie spowoduje u niego dobry nastrój, kiedy abstynencja prowadzi do wzrostu frustracji w miarę upływu czasu i spowoduje potrzebę sięgnięcia po narkotyki. Zignoruje zakazy korzystania z narkotyków i spożyje ich więcej niż normalna osoba.",
       "stats": [
 
       ],
@@ -1181,7 +1181,7 @@
       "degree": 1
     },
     {
-      "description": "Timmy nie dopuszcza do siebie myśli, że można czerpać radość z używek. Unika alkoholu i rekreacyjnych używek za wszelką cenę.",
+      "description": "Timmy brzydzi się przyjemnościami płynącymi z używek. Ściśle unika alkoholu i narkotyków.",
       "stats": [
         "Binging on drug mental state disabled.",
         "Binging on drug mental state disabled."
@@ -1213,7 +1213,7 @@
       "degree": -1
     },
     {
-      "description": "Timmy widzi wszystko w różowych barwach - bez względu na sytuację, w jakiej się znajduje.",
+      "description": "Timmy widzi wszystko w różowych barwach - bez względu na sytuację w jakiej się znajduje.",
       "stats": [
 
       ],
@@ -1243,7 +1243,7 @@
       "degree": 2
     },
     {
-      "description": "Timmy jest pozytywnie nastawiony do życia - trudno jest zepsuć jego humor.",
+      "description": "Timmy jest pozytywnie nastawiony do życia - ciężko jest zepsuć jego humor.",
       "stats": [
 
       ],
@@ -1333,7 +1333,7 @@
       "degree": -2
     },
     {
-      "description": "Siła woli Timmy jest twarda niczym żelazna tarcza. Choć może mieć mentalne wzloty i upadki, nigdy się nie załamuje.",
+      "description": "Siła woli Timmy'ego jest twarda niczym żelazna tarcza. Choć może mieć mentalne wzloty i upadki, nigdy się nie załamuje.",
       "stats": [
         "-18% mental break threshold"
       ],
@@ -1453,7 +1453,7 @@
       "degree": -2
     },
     {
-      "description": "Timmy lubi trzymać wszystko na dystans. Będzie pracować ciężej niż inni, aby osiągnąć cel, ale jego słabe nerwy mogą w tym przeszkodzić.",
+      "description": "Timmy lubi mieć wszystko załatwione. Będzie pracował ciężej niż większość, aby osiągnąć ten stan rzeczy, ale jego nerwy mogłyby być w lepszym stanie.",
       "stats": [
         "+20% global work speed",
         "+8% mental break threshold"
@@ -1607,7 +1607,7 @@
       "degree": -1
     },
     {
-      "description": "Timmy lubi stać w miejscu i nic nie robić. Wolniej się porusza i często zapomina o tym, czym powinien się zajmować.",
+      "description": "Timmy lubi stać w miejscu i nic nie robić. Wolniej się porusza i często zapomina o tym, czym powinien się teraz zajmować.",
       "stats": [
         "-35% global work speed"
       ],
@@ -1637,7 +1637,7 @@
       "degree": -2
     },
     {
-      "description": "Umysł Timmy jest podatny na wpływy niczym kamerton. Charakteryzuje się ekstremalną wrażliwością na zjawiska psychiczne.",
+      "description": "Umysł Timmy'ego jest jak kamerton. Jest bardzo wrażliwy na zjawiska psychiczne.",
       "stats": [
         "+80% psychic sensitivity"
       ],
@@ -1667,7 +1667,7 @@
       "degree": 2
     },
     {
-      "description": "Umysł Timmy jest niezwykle wrażliwy na wszelkie zjawiska psychiczne.",
+      "description": "Umysł Timmy'ego jest niezwykle wrażliwy na wszelkie zjawiska psychiczne.",
       "stats": [
         "+40% psychic sensitivity"
       ],
@@ -1697,7 +1697,7 @@
       "degree": 1
     },
     {
-      "description": "Umysł Timmy jest niezgodny z resztą, dlatego nie jest aż tak podatny na zjawiska psychiczne.",
+      "description": "Umysł Timmy'ego nie jest wyczulony na zjawiska psychiczne. Nie mają na niego wpływu",
       "stats": [
         "-50% psychic sensitivity"
       ],
@@ -1727,7 +1727,7 @@
       "degree": -1
     },
     {
-      "description": "Umysł Timmy działa na zupełnie innych falach niż reszta, przez co w ogóle nie jest podatny na zjawiska psychiczne.",
+      "description": "Umysł Timmy'ego pracuje na innej częstotliwości niż reszty. Jest odporny na działanie zjawisk psychicznych.",
       "stats": [
         "-100% psychic sensitivity"
       ],
@@ -1757,7 +1757,7 @@
       "degree": -2
     },
     {
-      "description": "Timmy długo mierzy nim pociągnie za spust. Strzela wolniej od innych, ale celniej.",
+      "description": "Timmy potrzebuje więcej czasu podczas strzelania. Strzela rzadziej niż inni, ale z większą celnością.",
       "stats": [
         "+25% aiming time",
         "+5.0 shooting accuracy"
@@ -1789,7 +1789,7 @@
       "degree": 1
     },
     {
-      "description": "Pif! Paf! Puf! Timmy po prostu lubi pociągać za spust. Strzela szybciej od innych, ale niedokładniej.",
+      "description": "Pif! Paf! Paf! Timmy lubi pociągać za spust. Strzela szybciej niż inni, ale mniej celnie.",
       "stats": [
         "-50% aiming time",
         "-5.0 shooting accuracy"
@@ -1821,7 +1821,7 @@
       "degree": -1
     },
     {
-      "description": "Timmy jest wyjątkowo piękną osobą, ma egzotyczne rysy twarzy i przyciągające spojrzenie. Ludzie są PAWN_gender ? nim : nią zafascynowani, jeszcze zanim otworzy swoje usta.",
+      "description": "Timmy jest nadzwyczaj piękny, z jego egzotyczną acz znajomą strukturą twarzy i imponującym spojrzeniem. Ludzie są nim zauroczeni jeszcze zanim otworzy usta.",
       "stats": [
         "+2.0 beauty"
       ],
@@ -1851,7 +1851,7 @@
       "degree": 2
     },
     {
-      "description": "Timmy ma ładną twarz, która sprawia, że ludzie PAWN_gender ? go : ją lubią.",
+      "description": "Timmy ma piękną twarz co powoduje że ludzie go lubią.",
       "stats": [
         "+1.0 beauty"
       ],
@@ -1881,7 +1881,7 @@
       "degree": 1
     },
     {
-      "description": "Timmy jest trochę PAWN_gender ? brzydki : brzydka. To nieco odpycha innych podczas interakcji społecznych.",
+      "description": "Jest w Timmy'm coś brzydkiego. Coś co odrzuca innych podczas interakcji z nim.",
       "stats": [
         "-1.0 beauty"
       ],
@@ -1911,7 +1911,7 @@
       "degree": -1
     },
     {
-      "description": "Timmy jest niesamowicie PAWN_gender ? brzydki : brzydka. PAWN_gender ? jego : jej twarz wygląda jak coś pomiędzy rysunkiem małego dziecka, zniekształconym płodem w słoiku formaliny a kawałkiem sztuki nowoczesnej. Ludzie muszą się nieźle natrudzić, aby móc w ogóle na PAWN_gender ? niego : nią patrzeć podczas rozmowy.",
+      "description": "Timmy jest niewyobrażalnie brzydki. Jego twarz wygląda jak krzyżówka twarzy narysowanej przez nieutalentowane dziecko ze zniekształconym płodem w słoiku z formaldehydem i kawałkiem sztuki współczesnej. Inni muszą się naprawdę wysilić aby spojrzeć na niego podczas rozmowy.",
       "stats": [
         "-2.0 beauty"
       ],
@@ -2001,7 +2001,7 @@
       "degree": -1
     },
     {
-      "description": "NAME is an robot. As a robot HE is a bit faster and not really sensible for psychic phenomena.",
+      "description": "Jest robotem. Jako robot jest trochę szybszy i niewrażliwy na zjawiska psychiczne.",
       "stats": [
         "+0.10 prędkość ruchu",
         "+20% globalna szybkość pracy",
@@ -2039,7 +2039,7 @@
       "degree": 1
     },
     {
-      "description": "Timmy is abnormally receptive to the ebb and flow of mana, on will gain mana 40% faster than normal but jego maximum mana capacity is reduced by 20.",
+      "description": "Timmy jest nadzwyczaj podatny na przepływ many, odzyska manę 40% szybciej niż normalnie ale ilość jego many jest zredukowana o 20.",
       "stats": [
 
       ],
@@ -2071,7 +2071,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy has an increased resistance to the ebb and flow of mana which allows go to hold an additional 40 mana, but reduces jego mana regeneration by 20%.",
+      "description": "Timmy ma zwiększoną odporność na przepływ many co pozwala mu na posiadanie dodatkowych 40 punktów many, ale zmniejsza jego regenerację many o 20%.",
       "stats": [
 
       ],
@@ -2103,7 +2103,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy excels at combat arts and is able to execute combat maneuvers 40% more frequently, however, jego talent has fostered an arrogant attitude that reduces jego experience gain by 25% and causes other fighters to dislike go.",
+      "description": "Timmy wyróznia się w sztkuach walki i jest w stanie wykonywać manewry bojowe 40% częściej, aczkolwiek jego talent doprowadził do tego że stał się arogancki co redukuje zdobywane doświadczenie 25% i powoduje że inni wojownicy nie lubią go.",
       "stats": [
 
       ],
@@ -2135,7 +2135,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy is a descendant of fae folk and has a natural connection to the arcane. jego arcane resistance is reduced by 40% but mana regeneration and maximum mana is increased by 20%. Spell costs are reduced by 10%.",
+      "description": "Timmy jest potomkiem ludu wróżek i ma naturalne połączenie z mocami tajemnymi. Jego odporność na moc tajemną jest zredukowana o 40%, ale regeneracja many i maksymalny poziom many podniesione o 20%. Koszt zaklęć zmniejszony o 10%.",
       "stats": [
 
       ],
@@ -2165,7 +2165,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy is a descendant of giants - endowed with with great strength and stamina, though slow to recover. jego max stamina is increased by 80%, but stamina regeneration is reduced by 40%. Any attack made while using a melee weapon, or unarmed, deals an additional 25% damage.",
+      "description": "Timmy jest potomkiem gigantów - obdarzony wielką siłą i wytrzymałością, choć wolno się regeneruje. Jego maksymalna wytrzymałość jest zwiększona o 80%, ale regeneracja wytrzymałości jest zredukowana o 40%. Jakikolwiek atak z użyciem broni białej bądź będąc nieuzbrojonym zadaje dodatkowe 25% obrażeń.",
       "stats": [
 
       ],
@@ -2195,7 +2195,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy is blessed by magic, able to harness its power without suffering the full side-effects. Psychic sensitivity is increased by 50% and any magic ability used only incurs half the normal arcane weakness.",
+      "description": "Timmy został pobłogosławiony przez magię, jest zdolny okiełznać jej moc bez odczuwania skutków ubocznych. Wrażliwość psychiczna zwiększona o 50% i każda magiczna zdolność która została użyta powoduje tylko połowę osłabienia mocami tajemnymi.",
       "stats": [
         "+50% podatność PSI"
       ],
@@ -2225,7 +2225,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy is cursed by magic - tormented by the constant, burning rush of power through jego being, and can only gain relief by expending arcane energy. Timmy will slowly accumulate arcane weakness up until on would become catatonic, and may become catatonic at any point while at this threshold. Using magical abilities that would normally incur arcane weakness will instead proportionally reduce arcane weakness, as well as the effects of the curse.",
+      "description": "Timmy został przeklęty przez magię - dręczony ciągłym, palącym przypływem mocy przez jego istotę, może uzyskać ulgę tylko przez wydawanie tajemnej energii. Timmy powoli gromadzi słabość mocy tajemnej do momentu aż wpadnie w katatonię, może wpaść w ten stan w dowolnym, nieprzewidzianym momencie. Używanie magicznych zdolności, które normalnie powodowałyby osłabienie mocy tajemnej proporcjonalnie zmniejszy tę słabość, a także efekty klątwy.",
       "stats": [
 
       ],
@@ -2255,7 +2255,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy has accepted that death is another part of life and doesn't get upset when learning about a dead ally or seeing one of the undead.",
+      "description": "Timmy zaakceptował to że śmierć jest kolejną częścią życia i nie jest mu smutno gdy dowiaduje się o śmierci sojusznika lub kiedy widzi nieumarłego.",
       "stats": [
 
       ],
@@ -2285,7 +2285,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy has been reanimated as an undead.",
+      "description": "Timmy został ożywiony jako nieumarły.",
       "stats": [
         "-2.00 prędkość ruchu",
         "-66.0C Min. komfortowa temperatura",
@@ -2423,7 +2423,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy has a magical gift. on can harness this gift to become a mage by studying the mysterious secrets within an arcane script.",
+      "description": "Timmy jest uzdolniony magicznie. Może wykorzystać tę zdolność by zostać magiem poprzez studiowanie sekretów ukrytych w księdze mocy tajemnej",
       "stats": [
         "+0.10 prędkość ruchu",
         "+10% szybkość leczenia",
@@ -2432,56 +2432,7 @@
         "+10% szybkość nauki"
       ],
       "conflicts": [
-        "empath",
-        "apothecary",
-        "icemage",
-        "arcanemage",
-        "lightningmage",
-        "firemage",
-        "paladin",
-        "physicallyadept",
-        "summoner",
-        "gladiator",
-        "sharpshooter",
-        "sniper",
-        "mastersniper",
-        "legendarysniper",
-        "druid",
-        "bladesman",
-        "blademaster",
-        "bladedancer",
-        "legendarybladedancer",
-        "necromancer",
-        "priest",
-        "woodsman",
-        "hunter",
-        "scout",
-        "ranger",
-        "lich",
-        "entertainer",
-        "performer",
-        "minstrel",
-        "bard",
-        "faceless",
-        "psionic",
-        "succubus",
-        "warlock",
-        "geomancer",
-        "technomancer",
-        "deathknight",
-        "enchanter",
-        "bloodmage",
-        "chronomancer",
-        "monk",
-        "wanderer",
-        "wayfarer",
-        "chaosmage",
-        "supersoldier",
-        "commander",
-        "shadow",
-        "brightmage",
-        "shaman",
-        "golemancer"
+        
       ],
       "bypassLimit": false,
       "data": {
@@ -2491,56 +2442,7 @@
         "mod": "A RimWorld of Magic",
         "karmaTypeForAdding": null,
         "conflicts": [
-          "empath",
-          "apothecary",
-          "icemage",
-          "arcanemage",
-          "lightningmage",
-          "firemage",
-          "paladin",
-          "physicallyadept",
-          "summoner",
-          "gladiator",
-          "sharpshooter",
-          "sniper",
-          "mastersniper",
-          "legendarysniper",
-          "druid",
-          "bladesman",
-          "blademaster",
-          "bladedancer",
-          "legendarybladedancer",
-          "necromancer",
-          "priest",
-          "woodsman",
-          "hunter",
-          "scout",
-          "ranger",
-          "lich",
-          "entertainer",
-          "performer",
-          "minstrel",
-          "bard",
-          "faceless",
-          "psionic",
-          "succubus",
-          "warlock",
-          "geomancer",
-          "technomancer",
-          "deathknight",
-          "enchanter",
-          "bloodmage",
-          "chronomancer",
-          "monk",
-          "wanderer",
-          "wayfarer",
-          "chaosmage",
-          "supersoldier",
-          "commander",
-          "shadow",
-          "brightmage",
-          "shaman",
-          "golemancer"
+          
         ],
         "stats": [
           "+0.10 prędkość ruchu",
@@ -2559,7 +2461,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy is an empath, able to feel and manipulate the emotions of those around go. jego's abilities are tied to magic, but have affected go on a more innate level. However, with training, Timmy can still become an adept magic user. For better or worse, empath's have a very strong presence and can easily read the presence of others; the effectiveness of their abilities are closely tied to their aptitude for overcoming another's defenses.",
+      "description": "Timmy jest empatą, zdolnym do manipulowania emocjami ludzi dookoła siebie. Jego zdolności są związane z magią, ale wpłynęły na niego na bardziej wrodzonym poziomie. Aczkolwiek z pomocą treningu Timmy wciąż może zostać adeptem sztuki magicznej. Dobrze czy nie, empata ma bardzo silną obecność i może łatwo wykryć obecność innych; efektywność jego umiejętności jest ściśle powiązana z jego zdolnością do przełamywania obrony innej osoby.",
       "stats": [
         "+100% podatność PSI",
         "+10% próg poziomu załamania",
@@ -3193,7 +3095,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy is a wanderer; an outcast, half-breed mage class frequently dubbed a hedge-mage. jego carefree personality has kept jego from developing class abilities. Instead, on has learned to improve on a vast number of utility abilities that allow go to adapt to any situation.\n\t\t\nWanderers prefer the open road and gain a mood boost for being in a caravan. Caravans with a wanderer will ignore the movement penalties of any world tile. However, their wanderlust will cause them to suffer a mood penalty for remaining at a colony for too long.",
+      "description": "Timmy jest podróżnikiem, wyrzutkiem, magiem półkrwi. Jego beztroska osobowość powstrzymuje go przed rozwinięciem umiejętności klasowych. Zamiast tego nauczył się ulepszać ogromną liczbę umiejętności użytkowych, które pozwalają mu dostosować się do każdej sytuacji.\n\t\t\nWędrowcy wolą życie w drodze i otrzymują bonus do nastroju za przebywanie w karawanie. Karawany z wędrowcem będą ignorować kary do ruchu na dowolnym polu świata. Aczkolwiek żądza zwiedzania świata daje im karę do nastroju kiedy zostają zbyt długo w kolonii.",
       "stats": [
         "+0.20 prędkość ruchu",
         "-10% globalna szybkość pracy",
@@ -3459,7 +3361,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy is attuned with the elements of fire.",
+      "description": "Timmy jest zestrojony z żywiołem ognia.",
       "stats": [
         "+0.20 prędkość ruchu",
         "+10% globalna szybkość pracy",
@@ -3727,7 +3629,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy is attuned with the elements of water.",
+      "description": "Timmy jest zestrojony z żywiołem wody.",
       "stats": [
         "-10% próg poziomu załamania",
         "+20% szybkość badań",
@@ -3993,7 +3895,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy is attuned with the elements of lightning.",
+      "description": "Timmy jest zestrojony z żywiołem błyskawic.",
       "stats": [
         "+0.20 prędkość ruchu",
         "+10% globalna szybkość pracy",
@@ -4255,7 +4157,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy is attuned with arcane forces, interacting directly with raw arcane power to move matter and energy at will.",
+      "description": "Timmy jest zestrojony z mocami tajemnymi, wchodzi w bezpośrednią interakcję z czystą mocą tajemną by przemieszczać materię i energię zgodnie ze swoją wolą.",
       "stats": [
         "+10% szybkość badań",
         "+20% szybkość nauki",
@@ -4525,7 +4427,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy is attuned with the forces of nature.",
+      "description": "Timmy jest zestrojony z siłami natury.",
       "stats": [
         "+15% szybkość wzrostu odporności",
         "-20% podatność na toksyny",
@@ -4793,7 +4695,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy has been bestowed with divine might and has sworn to uphold justice wherever on stands.",
+      "description": "Timmy został obdarzony świętą mocą i poprzysiągł zaprowadzić sprawiedliwość gdziekolwiek postanie jego noga.",
       "stats": [
         "+0.10 prędkość ruchu",
         "+20% szybkość wzrostu odporności",
@@ -5057,7 +4959,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy is able to summon beings and materialize objects from other planes of existence.",
+      "description": "Timmy może przywoływać byty i materializować obiekty z innych wymiarów.",
       "stats": [
         "+0.10 prędkość ruchu",
         "+10% podatność na toksyny",
@@ -5319,7 +5221,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy is attuned with the forces of death.",
+      "description": "Timmy jest zestrojony z mocami śmierci.",
       "stats": [
         "-0.30 prędkość ruchu",
         "-20.0C Min. komfortowa temperatura",
@@ -5587,7 +5489,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy has transformed into a lich, forsaking life in exchange for an power and an immortal existence. on disdains menial taks, choosing to employ undead for trivial matters.",
+      "description": "Timmy przemienił się w lisza, poświęcając życie w zamian za potęgę i nieśmiertelność. Gardzi błachymi zadaniami, do zajmowania się nimi posyła swoje nieumarłe sługi.",
       "stats": [
         "Tułaczka w dezorientacji mental state disabled.",
         "Paniczna ucieczka mental state disabled.",
@@ -5879,7 +5781,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy is attuned with the forces of life and healing and has taken a vow against harming others.",
+      "description": "Timmy zestroił się z siłami życia i złożył przysięgę że nie użyje ich do krzywdzenia innych.",
       "stats": [
         "+2 medyczne",
         "+0.15 prędkość ruchu",
@@ -6151,7 +6053,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy is a natural entertainer, able to lighten the mood and lift the spirits of everyone around go.",
+      "description": "Timmy jest urodzonym komikiem, potrafi poprawić nastrój i podnieść na duchu każdego dookoła niego.",
       "stats": [
         "+10.00% wpływ na innych",
         "+20.00% zdolność negocjacji",
@@ -6409,7 +6311,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy is a performer; expanding on natural talent, on has begun to take an conscious role to improve the mood of other colonists.",
+      "description": "Timmy jest artystą; polegając na wrodzonym talencie rozpoczął świadomie wpływać na nastroje innych kolonistów.",
       "stats": [
         "+20.00% wpływ na innych",
         "+30.00% zdolność negocjacji",
@@ -6667,7 +6569,7 @@
       "degree": 1
     },
     {
-      "description": "Everyone loves being around Timmy. on has talent, wit and skill in many forms of entertainment and is able to make a personal connection with almost everyone.",
+      "description": "Każdy uwielbia przebywać w towarzystwie Timmy'ego. Ma talent, jest dowcipny i ma umiejętności by na wiele sposobów rozbawić innych. Poza tym jest w stanie nawiązać dobry kontakt z każdym.",
       "stats": [
         "+30.00% wpływ na innych",
         "+35.00% zdolność negocjacji",
@@ -6925,7 +6827,7 @@
       "degree": 2
     },
     {
-      "description": "Timmy is a master entertainer. Sharp wit, deft hands, and dry humor are jego weapons, and on is a master of all jego weapons.",
+      "description": "Timmy jest mistrzem w zabawianiu innych. Błyskotliwy dowcip, zręczne ręce i opowiadanie sucharów to jego bronie, a on opanował je mistrzowsko.",
       "stats": [
         "+35.00% wpływ na innych",
         "+40.00% zdolność negocjacji",
@@ -7183,7 +7085,7 @@
       "degree": 3
     },
     {
-      "description": "Timmy has a strange genetic strain that grants her enhanced physical attributes. She is also extremely attractive with an exotic facial structure that captures the eye. A succubus is more likely to exploit her physical advantages and have others do her work for her. jego succubus charm has its disadvantages and can cause some to become jealous and even despise go.",
+      "description": "Timmy ma dziwny szczep genetyczny który pozwala jej na podniesienie fizycznych zdolności. Jest również niesamowicie atrakcyjna z egzotyczną strukturą twarzy i błyskiem w oku. Sukub jest w stanie wykorzystać jej zalety fizyczne i zmusić innych do pracy dla niej. Jej urok może być jednak zdradliwy i może spowodować że ktoś stanie się zazdrosny albo nawet zacznie nią gardzić.",
       "stats": [
         "+0.20 prędkość ruchu",
         "-20% globalna szybkość pracy",
@@ -7461,7 +7363,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy is a Warlock - able to manifest physical and demonic forces using his unique access to arcane power. The warlock shares the same genetic mixture as a succubus, but as a male, on is affected with mental enhancements that include clairvoyance and telekineses. The warlock can occasionally affect the outcome of a social interaction using their mental capabilities, regardless of how the interaction actually occurred.",
+      "description": "Timmy jest czarnoksiężnikiem - zdolnym korzystać z fizycznych i demonicznych sił wykorzystując swój dostęp do mocy tajemnej. Czarnoksiężnik dzieli ten sam szczep genetyczny co sukub tylko jest płci męskiej, został obdarzony zdolnościami umysłowymi takimi jak jasnowidzenie i telekineza. Czarnoksiężnik może okazjonalnie wpływać na iterakcje społeczne korzystając ze swoich zdolności umysłowych, niezależnie od tego w jaki sposób doszło do interakcji.",
       "stats": [
         "-0.10 prędkość ruchu",
         "-20% globalna szybkość pracy",
@@ -7739,7 +7641,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy is attuned with the earth and natural order, drawing power from the physical realm and intertwining it with arcane energy. on is capable of reinforcing physical elements, and bending them, as on needs.",
+      "description": "Timmy jest zestrojony z żywiołem ziemi i naturalnym porządkiem. Czerpie moc z fizycznego świata i przeplata ją z energią tajemną. Jest zdolny wzmocnić fizyczne właściwości i korzystać z nich według swojej woli.",
       "stats": [
         "-0.10 prędkość ruchu",
         "-30% podatność na toksyny",
@@ -8013,7 +7915,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy has learned to see magic and science as two parts of the same force and is able to use arcane power to interface directly with components of technology. on is capable of manipulating objects with advanced mechanics, electronics, or computing it to achieve jego goals, but has difficulty interacting with biological systems.",
+      "description": "Timmy nauczył się że magia i nauka są dwoma składowymi tej samej siły i jest zdolny korzystać z mocy tajemnej by łączyć ją bezpośrednio z technologią. Jest zdolny manipulować zaawansowanymi mechanizmami, elektroniką, lub danymi naukowymi aby osiągnąć swój cel. Ma trudność w interakcjach z systemami biologicznymi.",
       "stats": [
         "-30.00% wpływ na innych",
         "-20.00% zdolność negocjacji",
@@ -8291,7 +8193,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy is a blood mage and has consigned to the dark art of manipulating the life blood of living things as a means of increasing jego power.\n\nAs a blood mage, Timmy has learned to control the life force within and command it to jego will. jego connection to life makes it easier to associate with other living things, but doesn't appreciate effort without immediate results.",
+      "description": "Timmy jest magiem krwi i korzysta z mrocznej sztuki manipulacji krwią istot żyjących aby zwiększyć swoją moc.\n\nJako mag krwi, Timmy nauczył się kontrolować siłę życiową i rozkazywać jej wedle własnej woli. Jego połączenie z siłami życia powoduje że łatwiej zaprzyjaźnia się z innymi. Nie docenia pracy bez natychmiastowych efektów.",
       "stats": [
         "+20.00% wpływ na innych",
         "+15.00% zdolność negocjacji",
@@ -8559,7 +8461,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy is an enchanter, attuned to the composition of matter and materials. on can manipulate matter to jego will, frequently in unnatural ways, and jego powers of transmutation can be permanent when sufficient effort is applied.",
+      "description": "Timmy jest zaklinaczem, dostrojonym do składu materii i materiałów. Może manipulować materią według własnej woli, często w nienaturalny sposób. Jego moce manipulacji materią mogą mieć stały efekt jeśli włoży odpowiedni wysiłek.",
       "stats": [
         "-15.00% szansa oswojenia zwierzęcia",
         "-15.00% szansa wytresowania zwierzęcia",
@@ -8829,7 +8731,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy is a chronomancer. Through arcane sight, on is able to view reality as it once was and as it could be, and can manipulate objects between those realities.",
+      "description": "Timmy jest chronomantą. Poprzez wgląd w arkana mocy tajemnej, może wyświetlić rzeczywistość która kiedyś była i tą jaka mogłaby być, może wpływać na obiekty w tych rzeczywistościach.",
       "stats": [
         "+25% szybkość nauki",
         "+40% szybkość badań",
@@ -9091,7 +8993,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy has rejected all predefined magic paths and refuses to attribute objective reality in jego search for power; there are no truths, all magic is permitted. This tradition has enabled Timmy to learn any type of magic, although on will never master any.",
+      "description": "Timmy odrzucił wszystkie dogmaty o magii i odmawia skupieniu się na jednej dziedzinie, w jego poszukiwaniach mocy; Nie ma zasad, każda magia jest dozwolona. Ten nawyk pozwala Timmy'emu nauczyć się dowolnego rodzaju magii chociaż nigdy nie zostanie mistrzem w jakiejś dziedzinie.",
       "stats": [
         "+25% szybkość nauki",
         "-20% szybkość badań",
@@ -9353,7 +9255,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy is a half-breed demon with an affinity for shadow magic. on has developed jego unique talents through combat training and physical conditioning making go the perfect assassin.",
+      "description": "Timmy jest pół demonem z zamiłowaniem do magii cienia. Rozwinął swój talent poprzez tening walki oraz dzięki idealnym warunkom fizycznym co czyni go idealnym zabójcą.",
       "stats": [
         "+25% podatność PSI",
         "+20% próg szoku bólowego",
@@ -9993,7 +9895,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy is a brightmage, able to harness the powers of light to purge evil. on approaches any task with an unrivaled fervor that usually places go at the forefront. Being a Brightmage introduces a dependency on the sun and light, because of this, Timmy has developed an intense hatred for shadowy and dark caricatures.",
+      "description": "Timmy jest Magiem Światła, zdolnym wykorzystać moce światła aby wyplenić zło ze świata. Do każdego zadania podchodzi z niezrównanym zapałem, który zwykle stanowi o jego sukcesie. Bycie magiem światła powoduje bycie zależnym od słońca oraz od światła. Z tego powodu Timmy rozwinął głęboką nienawiść do stworzeń mroku.",
       "stats": [
         "+15% podatność PSI",
         "+0.20 prędkość ruchu",
@@ -10631,7 +10533,7 @@
       "degree": 0
     },
     {
-      "description": "Shamans take a more harmonious approach to arcane powers than most mages, choosing to pursue a path that works with the ebb and flow of magic to offset or enhance the natural order. Timmy is kin to the spirit realm and more attuned to nature and its elements.",
+      "description": "Szamani korzystają z bardziej harmonicznego podejścia do mocy tajemnej niż większość magów. Podążają ścieżką przepływu magii aby utrzymać naturalny porządek. Timmy jest zaznajomiony ze światem duchów i bardziej zestrojony z naturą i jej składowymi.",
       "stats": [
         "+20% podatność PSI",
         "+30% podatność na toksyny",
@@ -11267,7 +11169,7 @@
       "degree": 0
     },
     {
-      "description": "Golemancers prefer to weave their magic through powerful runes and sigils that are able to transfer purpose into an object. Timmy is no exception; on can create runes that enhance basic mechanics, alter chemicals in biological matter, and animate mundane material into life-like, monstrous creatures. Golemancers are most effective when channeling their magic through symbols and find it more difficult to convert mana to energy directly but are also have higher arcane resistances. Most golemancers tend to find rocks more interesting than people and have little concern for cleanliness.",
+      "description": "Władcy golemów wolą przekuwać swoją magię w potężne runy i pieczęcie które są w stanie zmienić się w obiekt. Timmy nie jest wyjątkiem. Może tworzyć runy które wzmacniają podstawowe mechanizmy, zmieniają właściwości biologiczne materii i ożywiają ją w życiopodobne, potworne  stworzenia. Władcy golemów są najbardziej efektywni kiedy łączą swoją magię przez symbole i mają trudność w przemianie many w energię, ale mają większą odporność na moc tajemną. Większość władców golemów uważa skały za bardziej interesujące niż ludzie gdyż są lekko zaniepokojeni ich czystością.",
       "stats": [
         "+0.5 częstotliwość zabrudzania",
         "-20.00% wpływ na innych",
@@ -11899,7 +11801,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy is physically adept and has potential to learn special combat forms.",
+      "description": "Timmy jest sprawny fizycznie i ma potencjał nauczyć się specjalnych metod walki.",
       "stats": [
         "+0.20 prędkość ruchu",
         "+20% globalna szybkość pracy",
@@ -12035,7 +11937,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy is a wayfarer; an self-disciplined fighter that excels at tricks and dirty fighting. jego carefree personality has kept go from developing class abilities. Instead, on has learned to improve a vast number of utility abilities that allow go to adapt to any situation.\n\nWayfarers prefer the open road and will gain a mood boost for being in a caravan, and any caravan with a wayfarer will travel 25% faster. However, wayfarers will suffer a mood penalty if they remain at colony for too long.",
+      "description": "Timmy jest Wędrowcem. zdyscyplinowanym wojownikiem który specjalizuje się w trikach i brudnych sztuczkach. Jego beztroska osobowość powstrzymuje go od rozwoju zdolności klasowych. Zamiast tego nauczył się polepszać swój szeroki wachlarz umiejętności który pozwala mu dostosować się do każdej sytuacji.\n\nWędrowcy wolą być w drodze i zdobywają bonus do nastroju za bycie w karawanie. Każda karawana z wędrowcem porusza się 25% szybciej. Aczkolwiek wędrowcy dostają karę do nastroju jeżeli przebywają zbyt długo w koloni.",
       "stats": [
         "+0.20 prędkość ruchu",
         "-10% globalna szybkość pracy",
@@ -12301,7 +12203,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy is an apothecary, trained in the preparation of medicines, balms, tinctures and drugs. jego profession exhibits strict discipline and dedication, and on has learned to apply jego discipline to more generic, physical skills. With training, on can become capable in many combat techniques to augment jego skill in herbs.",
+      "description": "Timmy jest Aptekarzem. Jest wyszkolony w przygotowywaniu leków, balsamów, nalewek i narkotyków. Jego profesja wymaga solidnej dyscypliny i poświęcenia. Nauczył się wykorzystywać swoją dyscyplinę do nauki umiejętności fizycznych. Z pomocą treningu może wyszkolić się w wielu technikach walki o dziwo pomaga mu to w poprawie umiejętności zielarskich.",
       "stats": [
         "+20% szybkość uprawy",
         "-2.50% szansa na zatrucie pokarmowe",
@@ -12941,7 +12843,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy has learned how to train the Gladiator combat style.",
+      "description": "Timmy nauczył się jak walczyć w stylu walki gladiatora.",
       "stats": [
         "+0.20 prędkość ruchu",
         "+20% globalna szybkość pracy",
@@ -13219,7 +13121,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy is a trained woodsman; preferring the silence and lethality of a bow and armed with field-craft and cunning, on is prepared to defend jego land from invaders.",
+      "description": "Timmy jest wyszkolonym Człowiekiem Lasu. Woli korzystać z cichego i zabójczego łuku i przebiegłości. Jest przygotowany by bronić swoich ziem przed najeźdźcami.",
       "stats": [
         "+0.15 prędkość ruchu",
         "+20% szybkość wzrostu odporności",
@@ -13487,7 +13389,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy is a hunter; on employs field-craft, cunning, and skill with a bow to defend jego land from invaders.",
+      "description": "Timmy jest Łowcą. korzysta z własnego rzemiosła, sprytu i umiejętności posługiwania się łukiem aby bronić swoich ziem przed najeźdźcami.",
       "stats": [
         "+0.20 prędkość ruchu",
         "+25% szybkość wzrostu odporności",
@@ -13755,7 +13657,7 @@
       "degree": 1
     },
     {
-      "description": "Timmy is a scout; comfortable in the wilds, and relied upon to be the eyes and ears of a colony. on employs expertise in field-craft, cunning, and the bow to defend jego land from invaders.",
+      "description": "Timmy jest Zwiadowcą. Jest zaznajomiony z dziczą i jest odpowiedzialny za bycie oczami i uszami koloni. Korzysta z własnego rzemiosła, sprytu i umiejętności posługiwania się łukiem aby bronić swoich ziem przed najeźdźcami.",
       "stats": [
         "+0.25 prędkość ruchu",
         "+30% szybkość wzrostu odporności",
@@ -14023,7 +13925,7 @@
       "degree": 2
     },
     {
-      "description": "Timmy is a ranger; master of the wilds.  on is a master of jego craft and defender of jego land.",
+      "description": "Timmy jest Leśniczym; mistrzem dziczy. Jest mistrzem swego rzemiosła i obrońcą swoich ziem.",
       "stats": [
         "+0.30 prędkość ruchu",
         "+35% szybkość wzrostu odporności",
@@ -14291,7 +14193,7 @@
       "degree": 3
     },
     {
-      "description": "Timmy has trained to become a sniper, skilled in the economy and accuracy of long range, small arms combat. Training to become a sniper has caused some colonists to be uncomfortable around go, not that on cares.",
+      "description": "Timmy trenował by zostać Snajperem. Wyszkolony w oszczędnym celnym strzelaniu na daleki dystans oraz posługiwaniu się małymi broniami. Trening na snajpera spowodował to, że niektórzy koloniści czują się niekomfortowo w jego towarzystwie, ale on się tym nie przejmuje.",
       "stats": [
         "+0.10 prędkość ruchu",
         "-10% czas celowania",
@@ -14551,7 +14453,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy has trained to become a sniper, skilled in the economy and accuracy of long range, small arms combat. Becoming a sniper has caused go to become distanced from other colonists and somewhat unapproachable, not that on cares.",
+      "description": "Timmy trenował by zostać Snajperem. Wyszkolony w oszczędnym celnym strzelaniu na daleki dystans oraz posługiwaniu się małymi broniami. Zostanie snajperem zdystansowało go od innych kolonistów i uczyniło kimś nieosiągalnym, ale on się tym nie przejmuje.",
       "stats": [
         "+0.15 prędkość ruchu",
         "-15% czas celowania",
@@ -14811,7 +14713,7 @@
       "degree": 1
     },
     {
-      "description": "Timmy is a master sniper, skilled in the economy and accuracy of long range, small arms combat. Being a sniper has made go avoid other colonists, not that they care.",
+      "description": "Timmy jest mistrzem Snajperstwa. Wyszkolony w oszczędnym celnym strzelaniu na daleki dystans oraz posługiwaniu się małymi broniami. Bycie snajperem uczyniło że unika pozostałych kolonistów, ale on o to nie dba.",
       "stats": [
         "+0.20 prędkość ruchu",
         "-22% czas celowania",
@@ -15071,7 +14973,7 @@
       "degree": 2
     },
     {
-      "description": "Timmy is a legendary sniper, skilled in the economy and accuracy of long range, small arms combat.  Other colonists avoid eye contact and whisper in corners about how dangerous on is and that suits go just fine.",
+      "description": "Timmy jest Legendarnym Snajperem. Wyszkolony w oszczędnym celnym strzelaniu na daleki dystans oraz posługiwaniu się małymi broniami. Inni koloniści unikają nawiązywania z nim kontaktu wzrokowego, szepczą po kątach o tym jaki jest niebezpieczny i to mu pasuje.",
       "stats": [
         "+0.25 prędkość ruchu",
         "-30% czas celowania",
@@ -15331,7 +15233,7 @@
       "degree": 3
     },
     {
-      "description": "Timmy is training to become a master of the blade and excels at fighting in melee combat.",
+      "description": "Timmy trenuje by zostać mistrzem ostrza i wyróżnia się w walce wręcz.",
       "stats": [
         "+0.15 prędkość ruchu",
         "-3% próg poziomu załamania",
@@ -15589,7 +15491,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy has trained to become a sword master, dangerously skilled in melee combat.",
+      "description": "Timmy trenował by zostać Mistrzem Miecza. Niebezpieczny, utalentowany w walce wręcz.",
       "stats": [
         "+0.20 prędkość ruchu",
         "-5% próg poziomu załamania",
@@ -15847,7 +15749,7 @@
       "degree": 1
     },
     {
-      "description": "Timmy is a blade dancer, highly skilled in melee combat.  Watching go fight is like watching a dance, every action precise and flawless as it flows from one form into another.",
+      "description": "Timmy jest Tancerzem Ostrzy. Jest świetnie wyszkolony w walce wręcz. Jego walki wyglądają jak taniec, każdy atak precyzyjny i bezbłędny, płynnie przechodzi z jednej formy posługiwania się mieczem do drugiej.",
       "stats": [
         "+0.30 prędkość ruchu",
         "-8% próg poziomu załamania",
@@ -16107,7 +16009,7 @@
       "degree": 2
     },
     {
-      "description": "Timmy has become a legend, jego skill in melee combat is is known across the world. jego skill in combat makes it look as if each movement, each strike, is merely a stitch in a tapestry that depicts jego victory.",
+      "description": "Timmy stał się legendą. Jego umiejętności walki wręcz są znane na całym świecie. Jego umiejętności w walce sprawiają, że każdy ruch, każde uderzenie jest tylko ściegiem w gobelinie, który przedstawia jego wspaniałe zwycięstwo.",
       "stats": [
         "+0.40 prędkość ruchu",
         "-10% próg poziomu załamania",
@@ -16367,7 +16269,7 @@
       "degree": 3
     },
     {
-      "description": "Timmy is a master of disguise and imitation; able to manipulate and capture the muscle and mental actions of another and release it as their own.",
+      "description": "Timmy jest mistrzem przebierania się za kogoś i udawania tej osoby. Jest zdolny naśladować osobę pod którą się podszywa i wykorzystać to na własny pożytek.",
       "stats": [
         "+0.15 prędkość ruchu",
         "+10% globalna szybkość pracy",
@@ -16639,7 +16541,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy is a Psionic - able to manifest mental willpower into raw energy without the use of a psychic amplifier. on is able to project psionic energy but finds it easier and more efficient to apply it as an extension of jego body. For this reason, on prefers to be free of encumbering weapons when manifesting psionic energy.\n\nTimmy has become less social since developing psionic powers, preferring to be unhindered by other pawns.\n\n*The regeneration rate of psionic energy is based on psychic sensitivity - reducing sensitivity to 0 will prevent psionic energy from regenerating.",
+      "description": "Timmy jest Psionikiem - zdolnym do przemiany siły woli w czystą energię bez korzystania z psychicznego wzmacniacza. Jest zdolny użyć projekcji psionicznej energii ale o wiele łatwiejsze i efektywniejsze dla niego jest zastosowanie jej jako przedłużenie jego ciała. Z tego powodu woli nie korzystać z broni podczas korzystania z psionicznej energii.\n\nTimmy odizolował się od społeczeństwa od czasu kiedy rozwinął psioniczne moce, woli aby inni mu nie przeszkadzali.\n\n*Regeneracja psionicznej energii jest oparta na psychicznej wrażliwości - zmniejszenie wrażliwości do 0 zapobiegnie regeneracji energii psionicznej.",
       "stats": [
         "-25.00% wpływ na innych",
         "-20.00% zdolność negocjacji",
@@ -16907,7 +16809,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy is a Death Knight - harbinger of doom and a representative of the ever approaching inevitability of death and decay. jego solemn attitude makes most pawns uneasy and even fewer approve of jego methods.",
+      "description": "Timmy jest Rycerzem Śmierci - zwiastunem zagłady i nadchodzącej, nieuniknionej śmierci i rozkładu. Jego postawa sprawia że większość kolonistów czuje się nieswojo, a jeszcze mniej z nich aprobuje jego metody.",
       "stats": [
         "-25.00% wpływ na innych",
         "-25.00% zdolność negocjacji",
@@ -17169,7 +17071,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy is a Monk, dedicated to mastering Chi - the energy that connects all life in the universe. on harnesses Chi to create magical effects and exceed jego physical capabilities. Timmy is also able to disrupt the Chi in others, affecting their command over spells and abilities.",
+      "description": "Timmy jest Mnichem oddanym perfekcyjnemu nuczeniu posługiwania się Chi - energią która łączy całe życie we wszechświecie. Wykorzystuje Chi do wzmocnienia fizycznych zdolności. Timmy może też rozpraszać Chi innych, wpływając na ich kontrolę nad zaklęciami i umiejętnościami.",
       "stats": [
         "+5.0 szansa uniknięcia ciosu",
         "+5.0 szansa na trafienie wręcz",
@@ -17437,7 +17339,7 @@
       "degree": 0
     },
     {
-      "description": "As a Commander, Timmy exhibits a charismatic personality and stalwart presence that makes other pawns want to follow jego lead. Commander's utilize the weight of their presence to inspire nearby pawns, and when that's not enough, they can issue orders that drive their followers to victory. Because Timmy is used to everyone doing jego bidding, on considers menial tasks beneath jego status, and is generally a lackluster worker.",
+      "description": "Jako lider Timmy posiada charyzmatyczną osobowość i nienaganną prezencję, która sprawia że inni koloniści chcą za nim podążać. Lider wykorzystuje swoje atrybuty by zainspirować pobliskich kolonistów, a jeśli to nie wystarcza może wydać rozkaz prowadzący towarzyszy do zwycięstwa. Ponieważ Timmy jest przyzwyczajony do tego że wszyscy wykonują jego polecenia, uważa że proste zadania są poniżej jego statusu i ogólnie jest słabym pracownikiem.",
       "stats": [
         "+40.00% wpływ na innych",
         "+30.00% zdolność negocjacji",
@@ -17699,7 +17601,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy is a highly trained Soldier, specializing in pistol, shotgun, or rifle weapons. jego weapon specialization is augmented by a standard set of combat training. Super Soldiers are trained to be aggressive and consider violence the natural solution to any argument.",
+      "description": "Timmy jest świetnie wyszkolonym żołnierzem. Specjalizuje się w posługiwaniu pistoletem, szotgunem i broniami dalszego zasięgu. Jego specjalizacja jest poszerzona o standardowe umiejętności bojowe. Superżołnierz wytrenowany by być agresywnym. Rozważa przemoc jako solidny argument w każdej sytuacji.",
       "stats": [
         "+5% szybkość wzrostu odporności",
         "+0.10 prędkość ruchu",
@@ -17969,7 +17871,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy's reflexes are truly out of this world. They can parry melee attacks without any training and with luck even bullets.",
+      "description": "Refleks Timmy'ego jest nie z tej ziemi. Może parować ataki wręcz bez żadnego treningu, a nawet unikać kul.",
       "stats": [
         "+10.0 melee parry melee chance",
         "+5.0 melee parry projectile chance",
@@ -18003,7 +17905,7 @@
       "degree": 1
     },
     {
-      "description": "Timmy's reflexes transcend common sense. They can easily parry melee attacks without any training and with a bit of luck even bullets.",
+      "description": "Refleks Timmy'ego przeistoczył się w nadzwyczajne przeczucie. Może parować ataki wręcz bez żadnego treningu, a nawet unikać kul.",
       "stats": [
         "+20.0 melee parry melee chance",
         "+10.0 melee parry projectile chance",
@@ -18037,7 +17939,7 @@
       "degree": 2
     },
     {
-      "description": "Timmy is a Red Mage, a flourishing spellblade who weaves through combat with deadly flair.",
+      "description": "Timmy jest Czerwonym Magiem. Korzysta z czarodziejskiego ostrza, które w walce łączy się wraz ze śmiercionośnym talentem.",
       "stats": [
         "+0.25 prędkość ruchu",
         "+10.0 szansa na trafienie wręcz",
@@ -18573,7 +18475,7 @@
       "degree": 4
     },
     {
-      "description": "Timmy is a Ninja, a stealthy and agile fighter with a few magical tricks up their sleeves. They excel in bringing down enemies before they even know what hit them.",
+      "description": "Timmy jest Ninją. Cichym i zwinnym wojownikiem z paroma sztuczkami z rękawa. Do perfekcji opanował pokonywanie przeciwników zanim ci zorientują się co ich uderzyło.",
       "stats": [
         "+0.35 prędkość ruchu",
         "-8% próg poziomu załamania",
@@ -19101,7 +19003,7 @@
       "degree": 4
     },
     {
-      "description": "Timmy is an Elemental Gunner, a magically-gifted pawn capable of imbuing their ammunition with magical power. Their magically-heightened awareness allows them to shoot at frightening speeds. They specialize in laying down sustained suppressive fire.",
+      "description": "Timmy jest Strzelcem Żywiołów. Magicznie obdarzonym kolonistą zdolnym nasycić swoją amunicją mocą magiczną. Jego podwyższona magiczna świadomość pozwala strzelać mu z zatrważającą prędkością. Specjalizuje się w trzymaniu ciągłego ognia zaporowego.",
       "stats": [
         "-30% czas celowania",
         "-15% próg szoku bólowego"
@@ -19623,7 +19525,7 @@
       "degree": 4
     },
     {
-      "description": "Timmy is a Bombardier, a fighter specializing in long-range explosive weaponry. They are experts at siege warfare, and can fire explosives over walls from behind cover.",
+      "description": "Timmy jest Bombardierem. Wojownikiem specjalizujący się w broni wybuchowej dalekiego zasięgu. Jest ekspertem od oblężeń i może wystrzelić ładunki wybuchowe ponad murem.",
       "stats": [
         "+5.0 celność strzelania"
       ],
@@ -20143,7 +20045,7 @@
       "degree": 4
     },
     {
-      "description": "Timmy is a Railbreaker, a reckless melee brawler equipped with extremely dangerous augments that allow them to create explosions at will, which they fire at point-blank range. They are unmatched in firepower, but their greatest weakness is the recoil from their own moves.",
+      "description": "Timmy jest Railbreakerem. Bezmyślnym awanturnikiem walczącym wręcz, uzbrojonym w bardzo niebezpieczne wyposażenie które pozwala mu wywołać ekslozję na zawołanie. Jest niezrównany w posługiwaniu się prochem, ale jego największą słabością jest odrzut spowodowany przez jego własne bronie.",
       "stats": [
         "-0.35 prędkość ruchu",
         "-10.0 celność strzelania",
@@ -20671,7 +20573,7 @@
       "degree": 4
     },
     {
-      "description": "Timmy is a Samurai, a wandering swordsman who specializes in Iai.",
+      "description": "Timmy jest samurajem, wędrownym szermierzem.",
       "stats": [
         "-15% szybkość badań",
         "-15% globalna szybkość pracy",
@@ -21201,7 +21103,7 @@
       "degree": 4
     },
     {
-      "description": "Timmy is a Gadgeteer, an eccentric inventor who carries around numerous gadgets and tools to assist them in daily life.",
+      "description": "Timmy jest Gadżeciarzem. Ekscentrycznym wynalazcą, który nosi przy sobie niezliczoną ilość gadżetów by towarzyszyły mu w codziennym życiu.",
       "stats": [
         "-25.00% wpływ na innych",
         "-15% próg szoku bólowego",
@@ -21733,7 +21635,7 @@
       "degree": 4
     },
     {
-      "description": "Timmy is a Wind Mage, capable of bending the very air itself to their will.",
+      "description": "Timmy jest Magiem Wiatru, zdolnym nagiąć każdy jego podmuch do swojej woli.",
       "stats": [
         "+0.80 prędkość ruchu",
         "+10.0 szansa uniknięcia ciosu",
@@ -22263,7 +22165,7 @@
       "degree": 4
     },
     {
-      "description": "Timmy is a Medic, a dedicated doctor with an array of powerful utility abilities that they can support their allies with. They are very poor direct combatants, however.",
+      "description": "Timmy jest Medykiem. Oddanym lekarzem z szerokim wachlarzem przydatnych umiejętności które mogą wspierać jego sojuszników.",
       "stats": [
         "+4 medyczne",
         "+0.35 prędkość ruchu",
@@ -22799,7 +22701,7 @@
       "degree": 4
     },
     {
-      "description": "Timmy is a Chroma Mage, a versatile spellcaster capable of undertaking numerous paths of mastery. Timmy can learn any of several powerful spells, but they will never master them all. Their maximum level is 30.",
+      "description": "Timmy jest Magiem Kolorów. Wszechstronnym czarownikiem zdolnym szkolić się w wielu dziedzinach magii. Timmy może nauczyć się kilku potężnych zaklęć, ale nigdy nie osiągnie mistrzostwa w nich wszystkich. Jego maksymalny poziom to 30.",
       "stats": [
         "+20% szybkość nauki",
         "+20% szybkość badań",
@@ -23323,7 +23225,7 @@
       "degree": 4
     },
     {
-      "description": "Timmy is a Harbinger, a mage whose presence always signals death and destruction. They are capable of tapping into dark forces to curse their enemies, corrupting their body and soul. Due to their unique link with their victims, most of their spells do not require line of sight to cast.",
+      "description": "Timmy jest Zwiastunem Końca. Magiem którego obecność zawsze zwiastuje śmierć i zniszczenie. Jest zdolny wykorzystać ciemne moce by przekląć swoich wrogów, skorumpować ich duszę i ciało. W związku z jego unikalną więzią z ofiarami, większość zaklęć nie wymaga bycia w zasięgu wzroku by zostały rzucone.",
       "stats": [
         "-0.25 prędkość ruchu",
         "-20.00% negocjacja cen",
@@ -23851,7 +23753,7 @@
       "degree": 4
     },
     {
-      "description": "No one knows of Timmy's true origins, but in battle they seem more a demon than anything else. They are capable of flying directly into enemy positions unbidden and warping the minds of their enemies, causing discord and destruction.",
+      "description": "Nikt nie zna prawdziwego pochodzenia Timmy'ego, ale w walce wygląda jak demon bardziej niż ktokolwiek inny. Jest zdolny podlecieć na pozycje wrogów wypaczając ich umysły, powodując chaos i zniszczenie.",
       "stats": [
         "+0.25 prędkość ruchu",
         "+10.0 szansa na trafienie wręcz",
@@ -24379,7 +24281,7 @@
       "degree": 4
     },
     {
-      "description": "Timmy is a Berserker, a rampaging fighter who lives to kill or be killed.",
+      "description": "Timmy jest Berserkiem. Szalonym wojownikiem który żyje by zabić lub zostać zabitym.",
       "stats": [
         "+0.25 prędkość ruchu",
         "+20.0 szansa na trafienie wręcz",
@@ -24923,7 +24825,7 @@
       "degree": 4
     },
     {
-      "description": "Timmy is a Scion, a melee fighter that channels the aspects of ancient spirits to aid them both in combat and and in daily life.",
+      "description": "Timmy jest Scionem. Wojownikiem wręcz który wykorzystuje aspekty pradawnych duchów, aby pomóc sobie zarówno w walce, jak i w codziennym życiu.",
       "stats": [
         "+0.25 prędkość ruchu",
         "+5.0 szansa uniknięcia ciosu",
@@ -25451,7 +25353,7 @@
       "degree": 4
     },
     {
-      "description": "Timmy is a Plaguedoctor, a half-crazed medieval physician who delights in poisons and disease. They are capable of performing uniquely terrifying surgical procedures on both allies and enemies.",
+      "description": "Timmy jest Doktorem Plagi. Wpół szalonym średniowiecznym uczonym który specjalizuje się w truciznach i chorobach. Jest zdolny wykonywać niespotykane, przerażające operacje na sojusznikach i wrogach.",
       "stats": [
         "+10.0 szansa na trafienie wręcz",
         "-50% jakość leczenia",
@@ -25977,7 +25879,7 @@
       "degree": 4
     },
     {
-      "description": "Timmy is a Cleric, a versatile mid-line healer capable of quickly healing and cleansing their allies.",
+      "description": "Timmy jest Klerykiem. Wszechstronnym uzdrowicielem który potrafi szybko uleczyć sojuszników i zdjąć z nich debuffy.",
       "stats": [
         "+0.25 prędkość ruchu",
         "-30% czas celowania",
@@ -26501,7 +26403,7 @@
       "degree": 4
     },
     {
-      "description": "Timmy is an Arbormancer, a mage whose magic power is derived from living plants. They are not necessarily allies of the wood, however. They often earn the ire of Rangers and Druids through their wanton mistreatment of nature.",
+      "description": "Timmy jest Arbormantą. Magiem którego moc magiczna pochodzi od żyjących roślin. Nie oznacza to że jest przyjacielem natury. Często naraża sie na gniew Łowców i Druidów poprzez bezmyślne, złe traktowanie natury.",
       "stats": [
         "-20% podatność na toksyny",
         "+40% szybkość uprawy",
@@ -27029,7 +26931,7 @@
       "degree": 4
     },
     {
-      "description": "Timmy is a Chainwarden, a fighter that has mastered the usage of chains as a combat weapon. They excel at controlling enemy movements and dealing with multiple opponents at once.",
+      "description": "Timmy jest Strażnikiem Łańcuchów. Wojownkiem który walczy za pomocą łańcuchów. Jest świetny w kontrolowaniu ruchów przeciwnika i walki z wieloma przeciwnikami naraz.",
       "stats": [
         "+10.0 szansa na trafienie wręcz",
         "-12% próg poziomu załamania",
@@ -27553,7 +27455,7 @@
       "degree": 4
     },
     {
-      "description": "Timmy is an Ambusher, a fighter that lies in cold wait for their enemies with traps and devastating close-range abilities.",
+      "description": "Timmy jest Zasadzkowiczem. Wojownikiem który czeka na swoich przeciwników z przygotowanymi pułapkami i dewastującymi umiejętnościami walki na krótki dystans.",
       "stats": [
         "-16% próg poziomu załamania",
         "-15% próg szoku bólowego",
@@ -28081,7 +27983,7 @@
       "degree": 4
     },
     {
-      "description": "Timmy is a Saboteur, a fighter that specializes in going behind enemy lines and disabling key enemy buildings and defenses.",
+      "description": "Timmy jest Sabotażystą. Wojownikiem specjalizującym się w przechodzeniu przez linie wroga i sabotowaniu kluczowych budynków i umocnień.",
       "stats": [
         "-12% próg poziomu załamania",
         "-10% próg szoku bólowego",
@@ -28609,7 +28511,7 @@
       "degree": 4
     },
     {
-      "description": "Timmy is a Keeper, a mage that specializes in base defense.",
+      "description": "Timmy jest Opiekunem. Magiem specjalizującym się w obronie bazy.",
       "stats": [
         "-0.15 prędkość ruchu",
         "-12.0C Min. komfortowa temperatura",
@@ -29141,7 +29043,7 @@
       "degree": 4
     },
     {
-      "description": "Timmy is a Pridestalker, a fighter that combines bow and magic to turn any fight into a deadly hunt.",
+      "description": "Timmy jest Pridestalkerem. Wojownikiem który łączy łuk i magię aby zamienić każdą walkę w śmiertelne polowanie.",
       "stats": [
         "+16.0C Maks. komfortowa temperatura",
         "-16.0C Min. komfortowa temperatura",
@@ -29675,7 +29577,7 @@
       "degree": 4
     },
     {
-      "description": "Timmy is a Starseeker, a fledgling mage with incredible potential.",
+      "description": "Timmy jest Poszukiwaczem Gwiazd. Raczkującym magiem z niewiarygodnym potencjałem.",
       "stats": [
         "-6 zwierzęce",
         "-6 sztuka",
@@ -30225,7 +30127,7 @@
       "degree": 4
     },
     {
-      "description": "Timmy is an Aspirant, a fledgling fighter with incredible potential.",
+      "description": "Timmy jest Aspirantem. Raczkującym wojownikiem z niewyobrażalnym potencjałem.",
       "stats": [
         "-6 zwierzęce",
         "-6 sztuka",
@@ -30775,7 +30677,7 @@
       "degree": 4
     },
     {
-      "description": "Timmy is a Hawkeye, a fighter that has dedicated their life to the mastery of the bow.",
+      "description": "Timmy jest Sokolim Okiem. Wojownikiem który poświęcił swoje życie aby zostać mistrzem łuku.",
       "stats": [
         "-25% czas celowania",
         "+5.0 celność strzelania"
@@ -31297,7 +31199,7 @@
       "degree": 4
     },
     {
-      "description": "Timmy is an Atronach, an anomaly among spellcasters. They are capable of casting some powerful spells, but they are completely out of tune with the flow of magic and do not regenerate mana. They must find their own sources of mana with which to fuel their spells.",
+      "description": "Timmy jest Atronachem. Anomalią wśród rzucających zaklęcia. Jest zdolny rzucić kilka potężnych zaklęć, ale nie może zsynchronizować się z przepływem magii, ani regenerować many. Musi znaleźć własne źródło many które posłuży za paliwo dla jego zaklęć.",
       "stats": [
         "-100% podatność PSI",
         "-18% próg poziomu załamania"
@@ -31823,7 +31725,7 @@
       "degree": 4
     },
     {
-      "description": "Timmy is a versatile, shotgun-toting combat support, capable of taking out key targets, holding the line, or supporting allies.",
+      "description": "Timmy jest wszechstronny. Z pomocą dubeltówki jest zdolny ściągnąć cel, utrzymać linię lub wesprzeć sojuszników.",
       "stats": [
         "-25% czas celowania",
         "-0.30 prędkość ruchu",
@@ -32357,7 +32259,7 @@
       "degree": 4
     },
     {
-      "description": "Timmy is a Scrapper, a combatant that prefers unarmed brawling. They are unmatched in single combat with their huge array of single-target takedown moves.",
+      "description": "Timmy jest Scrapperem. Weteranem który woli bójki bez broni. Nie ma sobie równych w walce jeden na jednego dzięki ogromnej gamie ruchów eliminujących.",
       "stats": [
         "+0.25 prędkość ruchu",
         "+100% czas celowania",
@@ -32891,7 +32793,7 @@
       "degree": 4
     },
     {
-      "description": "Astrologian, fortune-teller, seer. As an Oracle, Timmy is all of these things, and more. As a mage that draws their power from the stars themselves, they are slow, deliberate spellcasters, but they are able to affect targets from anywhere on the map with their array of supportive spells.",
+      "description": "Astrolog, wróż, medium. Jako wyrocznia Timmy jest każdą z tych osób, a nawet kimś więcej. Jako mag który czerpie moc bezpośrednio z gwiazd jest powolny. Za pomocą swoich zaklęć wspierających jest w stanie wpływać na cel gdziekolwiek na mapie by się nie znajdował.",
       "stats": [
         "-0.25 prędkość ruchu",
         "+40% czas celowania",
@@ -33421,7 +33323,7 @@
       "degree": 4
     },
     {
-      "description": "Timmy is a Mystic, a fighter that utilizes spiritual energy to disable and thwart their foes.",
+      "description": "Timmy jest Mistykiem. Wojownikiem wykorzystującym energię duchową do unieszkodliwiania i przeszkadzania swoim wrogom.",
       "stats": [
         "+0.25 prędkość ruchu",
         "+5.0 szansa na trafienie wręcz",
@@ -33951,7 +33853,7 @@
       "degree": 4
     },
     {
-      "description": "Timmy is a Spellbreaker, a fighter that excels at countering enemy attacks, and is adept at dealing with enemy fighters and mages.",
+      "description": "Timmy jest Łamaczem Zaklęć. Wojownikiem specjalizującym się w kontrowaniu ataków przeciwnika. Jest ekspertem w radzeniu sobie z wrogimi wojownikami i magami.",
       "stats": [
         "+0.25 prędkość ruchu",
         "+10.0 szansa uniknięcia ciosu",
@@ -34479,7 +34381,7 @@
       "degree": 4
     },
     {
-      "description": "Timmy is a Duskbringer, a combatant that has mastered the dual destructive forces of light and darkness.",
+      "description": "Timmy jest Zwiastunem Zmierzchu. Weteranem który opanował poziom mistrzowski w dwóch destrukcyjnych mocach: światła i ciemności.",
       "stats": [
         "-8% próg poziomu załamania",
         "+5.0 szansa na trafienie wręcz",
@@ -35003,7 +34905,7 @@
       "degree": 4
     },
     {
-      "description": "Timmy is a fighter with an incredible affinity for the element of lightning, despite not being a mage. They are capable of executing devastating attacks, but the physical toll of harnessing such power causes them to take more damage than others.",
+      "description": "Timmy jest wojownikiem z niebywałym powiązaniem z żywiołem błyskawic. Pomimo tego że nie jest magiem jest zdolny wykonywać dewastujące ataki, ale kosztem ujarzmiania tej mocy jest otrzymywanie większej ilości obrażeń od innych.",
       "stats": [
         "+1.00 prędkość ruchu",
         "+10.0 szansa na trafienie wręcz",
@@ -35533,7 +35435,7 @@
       "degree": 4
     },
     {
-      "description": "Timmy is a sharpshot mercenary for hire. It's not uncommon to find their ilk in dusty rimworld bars. Their ability to take out key targets from a distance is unparalleled, but life as a contract killer has left them less than willing to perform menial labor and daily tasks. They are capable of utilizing magic to make their bullets even more deadly, but they have no inherent mana regeneration of their own.",
+      "description": "Timmy jest najemnym strzelcem do wynajęcia. Nie jest ciężko go spotkać w zakurzonym barze. Jego zdolność pozbywania sie celów z dystansu jest niezaprzeczalna, ale jego życie jako zabójca do wynajęcia sprawiło że nie chce wykonywać prostych czynności. Jest w stanie używać magii czyniąc swoje naboje bardziej zabójczymi, lecz nie jest w stanie sam zregenerować many.",
       "stats": [
         "+40% czas celowania",
         "+10.0 celność strzelania",
@@ -36061,7 +35963,7 @@
       "degree": 4
     },
     {
-      "description": "Timmy is a Spellthief, a trickster mage capable of easily infiltrating and sabotaging enemies. They can copy abilities from allies and enemies.",
+      "description": "Timmy jest Złodziejem Zaklęć. Oszukańczym magiem zdolnym w łatwy sposób zinfiltrować i sabotować przeciwnika. Może kopiować umiejętności przeciwników i wrogów.",
       "stats": [
         "+0.25 prędkość ruchu",
         "-15% próg szoku bólowego",
@@ -36589,7 +36491,7 @@
       "degree": 4
     },
     {
-      "description": "Timmy is a Dragoon, an agile knight that has absorbed the power of ancient dragons into their body, granting them extreme resistance towards heat. They are capable of taking to the skies to outmaneuever and destroy their opponents.",
+      "description": "Timmy jest Dragonem. Zwinnym rycerzem który zaabsorbował moc starożytnych smoków, co uczyniło go odpornym na ciepło. Jest w stanie wzbić się w powietrze aby zaskoczyć przeciwnika.",
       "stats": [
         "+10.0 szansa na trafienie wręcz",
         "+100.0C Maks. komfortowa temperatura",
@@ -37117,7 +37019,7 @@
       "degree": 4
     },
     {
-      "description": "Timmy is a Black Mage, a specialized combat mage capable of unleashing unending destructive magic on their foes.",
+      "description": "Timmy jest Czarnym Magiem. Wyspecjalizowanym magiem bojowym zdolnym sprowadzić destruktywną, niekończącą sie moc na jego wrogów.",
       "stats": [
         "+4 intelektualne",
         "-35% globalna szybkość pracy",
@@ -37655,7 +37557,7 @@
       "degree": 4
     },
     {
-      "description": "Timmy is a Scholar, a magical strategist capable of protecting their allies from harm. They are very poor direct combatants, but excel at supporting their allies in combat.",
+      "description": "Timmy jest uczonym. Magicznym strategiem zdolnym chronić swoich sojuszników od krzywdy. Jest słaby w bezpośrednich starciach, ale wyśmienity we wspieraniu swoich sojuszników w walce.",
       "stats": [
         "+4 medyczne",
         "+4 intelektualne",
@@ -38187,7 +38089,7 @@
       "degree": 4
     },
     {
-      "description": "Timmy is a Gunbreaker, an unorthodox fighter that prefers to use ranged weaponry in melee combat. They are capable of charging up and unleashing devastating attacks in quick succession on their targets.",
+      "description": "Timmy jest Gunbreakerem. Nieortodoksyjnym wojownikiem korzystającym z broni dystansowej w walce wręcz. Jest w stanie sie naładować i wyprowadzić dewastujące ataki w krótkim okresie czasu na jego cel.",
       "stats": [
         "+10.0 szansa na trafienie wręcz",
         "+10.0 szansa uniknięcia ciosu",
@@ -38715,7 +38617,7 @@
       "degree": 4
     },
     {
-      "description": "Timmy is a Gunner, a fighter that prefers ranged weapons with powerful single-shot capabilities. They are capable of charging up and laying down rapid bursts of suppressive fire.",
+      "description": "Timmy jest Strzelcem. Wojownikiem preferujacym broń dystansową korzystającą z pojedynczych strzałów. Jest w stanie się naładować i zapewnić szybkie serie ognia zaporowego.",
       "stats": [
         "-25% czas celowania",
         "+10.0 celność strzelania"
@@ -39237,7 +39139,7 @@
       "degree": 4
     },
     {
-      "description": "Timmy is a Warrior, a melee fighter trained to survive on the front lines of battle.",
+      "description": "Timmy jest Wojownikiem. Walczący wręcz, wytrnowany by przetrwać na pierwszej linii podczas bitwy.",
       "stats": [
         "+0.25 prędkość ruchu",
         "+10.0 szansa na trafienie wręcz",
@@ -39775,7 +39677,7 @@
       "degree": 4
     },
     {
-      "description": "Timmy is a Nomad, a resilient and versatile bow-fighter that fights at both melee and range.",
+      "description": "Timmy jest Nomadem. Odpornym i wszechstronnym wojownikiem z łukiem który walczy zarówno wręcz jak i na dystans.",
       "stats": [
         "+10.0 szansa na trafienie wręcz",
         "+10.0 szansa uniknięcia ciosu",
@@ -40303,7 +40205,7 @@
       "degree": 4
     },
     {
-      "description": "Timmy is a Guardian, a stalwart protector that uses blade and magic to defend their allies.",
+      "description": "Timmy jest Obrońcą. Rosłym ochroniarzem używającym magii i miecza by chronić swoich sojuszników.",
       "stats": [
         "+5.0 szansa na trafienie wręcz",
         "+5.0 szansa uniknięcia ciosu",
@@ -40829,7 +40731,7 @@
       "degree": 4
     },
     {
-      "description": "Timmy is a Holosmith, an ordinary individual except for one thing -- their usage of the miraculous Photon Forge, which allows them to harness the power of light for brief periods of time, allowing them to keep up with other trained fighters.",
+      "description": "Timmy jest Holokowalem. Zwyczajną jednostką poza jedną rzeczą -- możliwością korzystania z cudownego fotonowego pieca, który pozwala mu okiełznać moc światła przez krótkie okresy czasu. Pozwla mu to dotrzymać kroku wyszkolonym wojownikom.",
       "stats": [
         "+5.0 szansa na trafienie wręcz",
         "+5.0 szansa uniknięcia ciosu",
@@ -41353,7 +41255,7 @@
       "degree": 4
     },
     {
-      "description": "Timmy is a Troubadour, an archer who supports their allies with arrow and song.",
+      "description": "Timmy jest Trubadurem. Łucznikiem który wspiera sojuszników za pomocą strzały i pieśni.",
       "stats": [
         "+0.15 prędkość ruchu",
         "+25.00% wpływ na innych",
@@ -41883,7 +41785,7 @@
       "degree": 4
     },
     {
-      "description": "Timmy is a Gambler, a smooth-talking vagrant with a magical deck of cards. They play out their lives according to fate's whim.",
+      "description": "Timmy jest Hazardzistą. Włóczęgą z gładką gadką i zestawem magicznych kart. Rozgrywa swoje życie zgodnie z kaprysem losu.",
       "stats": [
         "+25.00% wpływ na innych",
         "+25.00% zdolność negocjacji",
@@ -42411,7 +42313,7 @@
       "degree": 4
     },
     {
-      "description": "Timmy is a Chef, a dedicated cook with abilities that can ease the burdens of their allies.",
+      "description": "Timmy jest Szefem Kuchni. Wyszkolonym kucharzem ze zdolnościami które pomagają rozwiązywać spory między kolonistami.",
       "stats": [
         "+4 gotowanie",
         "+50% szybkość oprawiania",
@@ -42937,7 +42839,7 @@
       "degree": 4
     },
     {
-      "description": "Timmy is a Miner, a trained specialist capable of demolishing ore and rock with ease.",
+      "description": "Timmy jest Górnikiem. Wytrenowanym specjalistą zdolnym wydobywać złoża i skały z łatwością.",
       "stats": [
         "+4 górnictwo",
         "+50% szybkość kopania",
@@ -43467,7 +43369,7 @@
       "degree": 4
     },
     {
-      "description": "Timmy is a Striker, an unarmed combatant that is an aggressive offshoot of the Monk -- they forsake defense and healing in exchange for a swift and offensive combat style.",
+      "description": "Timmy jest Strikerem. Nieuzbrojonym weteranem który jest agresywną wersją mnicha -- zapomina o obronie i leczeniu w zamian za płynny i ofensywny styl walki.",
       "stats": [
         "+0.50 prędkość ruchu",
         "+10.0 szansa na trafienie wręcz",
@@ -43995,7 +43897,7 @@
       "degree": 4
     },
     {
-      "description": "Timmy is a Rune Knight, a specialized combat mage that compresses mana into runes to use at a later time, allowing them to prepare for future encounters. They have access to offensive, defensive, and healing magic.",
+      "description": "Timmy jest Runicznym Rycerzem. Wyspecjalizowanym magiem bojowym który wtłacza manę w runy, by użyć jej później, co pozwala mu przygotować się na przyszłe starcia. Ma dostęp do magii ofensywnej, defensywnej i leczniczej.",
       "stats": [
         "+5.0 szansa na trafienie wręcz",
         "+5.0 szansa uniknięcia ciosu",
@@ -44519,7 +44421,7 @@
       "degree": 4
     },
     {
-      "description": "Timmy is a Blossom Blader, a graceful bladedancer with close ties to nature. They are capable of rapidly assaulting their targets with debilitating attacks. Their abilities are fueled by herbs gathered over time by interacting with plants.",
+      "description": "Timmy jest Utalentowanym Szermierzem. Dostojnym tancerzem ostrzy z bliskim kontaktem z naturą. Jest zdolny gwałtownie dopaść do celu z serią wyniszczających ataków. Jego zdolności są zasilane przez zioła zbierane za każdym razem kiedy obcuje z naturą.",
       "stats": [
         "+4 uprawa",
         "+0.25 prędkość ruchu",
@@ -45051,7 +44953,7 @@
       "degree": 4
     },
     {
-      "description": "Timmy is a Ravenous. No one knows how these disturbing creatures come into existence - freak of nature, biological experimentation, or magical anomaly? The only thing anyone knows for sure is that these creatures must feed, on anything and everything. Despite not being properly trained, they are capable of learning fighter and mage abilities. Perhaps they devoured the knowledge from some unfortunate soul...",
+      "description": "Timmy jest Wygłodniały. Nikt nie wie jak powstały te zajmujące stworzenia - wybryk natury, eksperyment biologiczny czy magiczna anomalia? Jedyna rzecz o której wszyscy wiedzą z pewnością jest taka że istoty te muszą żywić się na czymkolwiek i wszystkim. Pomimo nie bycia właściwie przeskolonymi są w stanie nauczyć się zdolności bojowych i magicznych. Być może ich zamiłowanie do nauki pochodzi z jakiejś pechowej duszyczki którą kiedyś zjedli...",
       "stats": [
         "x20 szybkość jedzenia"
       ],
@@ -45571,7 +45473,7 @@
       "degree": 4
     },
     {
-      "description": "Some do it for vengeance, others do it for pay. Whatever the reason, Timmy is a Mech Hunter, a fighter that has dedicated their life to eradicating the Mechanoid threat.",
+      "description": "Niektórzy robią to dla zemsty. Inni aby zarobić. Bez względu na powód Timmy jest Łowcą Mechów. Wojownikiem który postanowił poświęcić swoje życie eliminując zagrożenie ze strony Mechanoidów.",
       "stats": [
         "-25% czas celowania",
         "+5.0 celność strzelania"
@@ -46093,7 +45995,7 @@
       "degree": 4
     },
     {
-      "description": "Timmy is a Gunslinger, a mobile attacker capable of blanketing the battlefield with suppressive fire.",
+      "description": "Timmy jest Rewolwerowcem. Mobilnym strzelcem zdolnym zapełnić pole bitwy ogniem zaporowym.",
       "stats": [
         "-25% czas celowania",
         "+0.25 prędkość ruchu",
@@ -46617,7 +46519,7 @@
       "degree": 4
     },
     {
-      "description": "Timmy is a Shadowbringer, a melee fighter that utilizes the power of darkness to annihilate their foes.",
+      "description": "Timmy jest Zwiastunem Mroku. Wojownikiem wręcz wykorzystującym moce ciemności by anihilować swoich przeciwników.",
       "stats": [
         "+5.0 szansa na trafienie wręcz",
         "-15.0 celność strzelania",
@@ -47147,7 +47049,7 @@
       "degree": 4
     },
     {
-      "description": "Timmy is a Warden, an offshoot of the Geomancer that has received training as a battlemage and prefers to be in the thick of combat.",
+      "description": "Timmy jest opiekunem. Odgałęzieniem geomanty który otrzymał trening maga bojowego i woli być w centrum pola bitwy.",
       "stats": [
         "+5.0 szansa na trafienie wręcz",
         "-0.25 prędkość ruchu",
@@ -47673,7 +47575,7 @@
       "degree": 4
     },
     {
-      "description": "No one belongs to a Rimworld more than Timmy - no stranger to pollution, poison, drugs, or violence, they have augmented their body to allow them to process dangerous drugs in combat, allowing them to use their very body as a poisonous weapon.",
+      "description": "Nikt nie doświadczył świata bardziej niż Timmy - nie jest mu obce zanieczyszczenie, trucizna, narkotyki czy przemoc. Wzmocnił swoje ciało aby wprowadzać niebezpieczne narkotyki podczas bitwy, co czyni z jego ciała bardzo trującą broń.",
       "stats": [
         "-50% podatność na toksyny",
         "+50% próg szoku bólowego",
@@ -48201,7 +48103,7 @@
       "degree": 4
     },
     {
-      "description": "Timmy tends to occasionally allow their mind to drift, even in the middle of working.",
+      "description": "Timmy ma tendencję do myślenia o niebieskich migdałach. Nawet w środku pracy.",
       "stats": [
 
       ],
@@ -48239,7 +48141,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy has a loose screw or two, a small trade off for being naturally scientifically inclined.",
+      "description": "Timmy zgubił śrubkę lub dwie. Niewielka cena za bycie naturalnie skłonnym do nauki.",
       "stats": [
         "x115% szybkość badań"
       ],
@@ -48269,7 +48171,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy strives for perfection in jego work. They will naturally produce better quality products at the expense of time. However, making a low quality product will upset them. Additionally, they may very rarely quit a project mid attempt if they don't like the direction its going in.",
+      "description": "Timmy stara się robić wszystko perfekcyjnie. Naturalnie będzie produkował lepsze przedmioty kosztem czasu. Aczkolwiek zrobienie produktu niskiej jakości zasmuci go. Dodatkowo bardzo rzadko może porzucić projekt jeśli nie lubi kierunku w którym on zmierza.",
       "stats": [
         "x65% globalna szybkość pracy"
       ],
@@ -48299,7 +48201,7 @@
       "degree": 0
     },
     {
-      "description": "While fully capable of warfare in theory, Timmy's fight or flight instincts heavily lean towards flight, and on will try to hide or run as a first priority.",
+      "description": "Chociaż teoretycznie jest w pełni zdolny do prowadzenia działań wojennych, instynkt walki lub ucieczki Timmy'ego mocno skłania się ku ucieczce. A on priorytetowo będzie starał się ukryć lub uciec...",
       "stats": [
 
       ],
@@ -48333,7 +48235,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy has a higher mental and physical fortitude compared to most and can more readily adapt to harsh environments in the rimworlds.",
+      "description": "Timmy ma lepszą odporność psychiczną i fizyczną w porównaniu do reszty i może łatwiej zaadaptować się do trudnego środowiska.",
       "stats": [
         "-20% próg poziomu załamania",
         "+20% próg szoku bólowego"
@@ -48367,7 +48269,7 @@
       "degree": 0
     },
     {
-      "description": "Minor bruises and scrapes plague Timmy all too often, mostly due to uncoordinated tripping or falling.",
+      "description": "Drobne siniaki i zadrapania nękają Timmy'ego zbyt często, głównie z powodu nieskoordynowanego potknięcia się lub upadku.",
       "stats": [
 
       ],
@@ -48397,7 +48299,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy loves the brightness and heat of a dry summer day. They don't mind working up a sweat or sleeping in the warmth either.",
+      "description": "Timmy kocha promienie słoneczne i ciepło suchego letniego dnia. Nie przeszkadza mu też spocenie się lub spanie w cieple.",
       "stats": [
         "+10.0C Maks. komfortowa temperatura"
       ],
@@ -48427,7 +48329,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy loves the overcast and cold of a brisk winter night. They don't mind getting chilly or sleeping in the cold either.",
+      "description": "Timmy uwielbia pochmurny, zimny, rześki zimowy wieczór. Nie przeszkadza mu też gdy robi się chłodno lub śpi w niskich temperaturach.",
       "stats": [
         "-10.0C Min. komfortowa temperatura"
       ],
@@ -48457,7 +48359,7 @@
       "degree": 0
     },
     {
-      "description": "A bomb could go off next to Timmy while they sleep and they'd continue to do so. They can't be bothered to defend the colony mid catnap, either.",
+      "description": "Bomba mogłaby spaść tuż koło Timmy'ego w czasie kiedy śpi, a on i tak dalej będzie spał. Nie może być także proszony o obronę koloni w trakcie drzemki.",
       "stats": [
 
       ],
@@ -48487,7 +48389,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy is naturally hygenic and organized. They will not track in dirt or throw trash anywhere, and feel happy while cleaning.",
+      "description": "Timmy lubi higienę i jest dobrze zorganizowany. Nie będzie tropić w błocie, ani wyrzucać śmieci gdzie popadnie. Czuje się szczęśliwy podczas sprzątania.",
       "stats": [
 
       ],
@@ -48517,7 +48419,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy is sloppy naturally and leaves trash and dirt everywhere it seems. At least they're not much bothered by messes.",
+      "description": "Timmy jest bałaganiarzem. Zostawia śmieci i brud gdziekolwiek się pojawi. Przynajmniej nie przeszkadza mu bałagan.",
       "stats": [
 
       ],
@@ -48547,7 +48449,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy has problems taking breaks or resting mid job. on will continue to work even sacrificing their health or sleep.",
+      "description": "Timmy ma problem z braniem przerw i odpoczywaniem podczas pracy. Będzie kontynuował swoją pracę nawet poświęcając swoje zdrowie lub sen.",
       "stats": [
 
       ],
@@ -48585,7 +48487,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy has never felt nausea in jego life. Throwing up or food poisoning is foreign to go.",
+      "description": "Timmy nigdy nie poczuł mdłości w całym swoim życiu. Wymiotowanie czy zatrucie pokarmowe są mu obce.",
       "stats": [
 
       ],
@@ -48615,7 +48517,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy can't stand mistreatment of animals. on will feel happier being nuzzled or being a master to a bonded animal, but will be more deeply crushed when not master of a bonded animal or seeing one die. They also refuse to butcher.",
+      "description": "Timmy nie może znieść złego traktowania zwierząt. Czuje się szczęśliwy będąc tuląc się do sierściucha lub będąc mistrzem zwierzęcia z którym ma więź. Będzie załamany jeśli nie będzie mistrzem zwierzęcia z którym ma więź lub zobaczy śmierć jakiegoś stworzenia. Odmawia pracy jako rzeźnik.",
       "stats": [
 
       ],
@@ -48645,7 +48547,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy believes deeply in human superiority. Killing animals will please them and the colony losing an animal is a cherry on top according to them.",
+      "description": "Timmy głeboko wierzy w dominację człowieka. Zabijanie zwierząt sprawia mu przyjemność, a kolonia tracąca zwierzę jest dla niego tym czym wisienka jest na torcie.",
       "stats": [
 
       ],
@@ -48677,7 +48579,7 @@
       "degree": 0
     },
     {
-      "description": "Whether because they're a bit chunky or because they shift their weight oddly, Timmy has broken a few chairs in their time and is likely to break more.",
+      "description": "Nie ma znaczenia czy jest trochę masywny, czy to dlatego że źle operuje swoim środkiem ciężkości. Timmy złamał parę krzeseł w swoim życiu i jest bardzo prawdopodobne że złamie ich jeszcze trochę.",
       "stats": [
 
       ],
@@ -48707,7 +48609,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy only plays by their own rules, and will roll their eyes and take it easy while doing any task they've been forced to do.",
+      "description": "Timmy postępuje tylko według własnych reguł. Będzie przewracał oczami i nie spieszył się robiąc zadanie do którego został zmuszony.",
       "stats": [
 
       ],
@@ -48737,7 +48639,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy needs clear instructions on how, and when to do certain things and will only work at a normal speed when being forced to do something.",
+      "description": "Timmy potrzebuje jasnej instrukcji na temat jak i kiedy robić pewne rzeczy. Będzie pracował z normalną prędkością tylko kiedy będzie zmuszony by coś zrobić.",
       "stats": [
 
       ],
@@ -48767,7 +48669,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy is fueled by spite. They can't stand walking on the same soil as their rivals and will be elated by news of their life ending.",
+      "description": "Timmy'ego napędza złość. Nie może faktu znieść chodzenia po tej samej ziemi co jego rywale. Będzie zachwycony wiadomością o zakończeniu ich życia.",
       "stats": [
 
       ],
@@ -48797,7 +48699,7 @@
       "degree": 0
     },
     {
-      "description": "Whether by past trauma or fear of change, Timmy rejects modernity. They may randomly punch or attack mechanical devices and refuse to learn or research anything about them. They also love killing mechanoids.",
+      "description": "Bez znaczenia czy z powodu traumy z przeszłości, czy to stachu przed zmianą, Timmy odrzuca nowoczesność. Może spontanicznie uderzyć lub zaatakować urządzenia mechaniczne i odmawia uczenia się czegokolwiek o ich działaniu. Poza tym kocha zabijać mechanoidy.",
       "stats": [
         "Only mental break \"VTE_TechnophobeTantrum\" allowed."
       ],
@@ -48827,7 +48729,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy always recalls the good times and lives to party, any party attended will be remembered for many times longer than most.",
+      "description": "Timmy zawsze wspomina dobre czasy i żyje by imprezować. Każda impreza, w której bierze udział, będzie pamiętana wielokrotnie dłużej niż pozostałe.",
       "stats": [
 
       ],
@@ -48857,7 +48759,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy has hindered mental capacities. While slow to learn and hard to speak with, they tend to be much happier naturally.",
+      "description": "Timmy ma upośledzone zdolności umysłowe. Mimo że wolno się uczy i ciężko się z nim rozmawia, wydaje się być bardziej szczęśliwy.",
       "stats": [
         "-50% szybkość nauki",
         "-50.00% wpływ na innych"
@@ -48895,7 +48797,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy learned a specific move in melee combat which allows them to disarm opponents and will use it frequently.",
+      "description": "Timmy nauczył się specjalnego ruchu w sztukach walki który pozwala mu na rozbrojenie przeciwnika. Będzie z niego korzystać przy każdej okazji.",
       "stats": [
 
       ],
@@ -48925,7 +48827,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy believes they belong in high society, and loves nothing more than critiquing art and brushing elbows with royalty.",
+      "description": "Timmy wierzy że należy do klasy wyższej i ma zamiłowanie do krytykowania sztuki i szczotkowania łokci razem z rodziną królewską.",
       "stats": [
 
       ],
@@ -48955,7 +48857,7 @@
       "degree": 0
     },
     {
-      "description": "Sour stomach plagues Timmy any time they're around too much blood or rotting corpses. Vomiting is just part of life for go.",
+      "description": "Kwaśny żołądek dręczy Timmy'ego za każdym razem, gdy w pobliżu jest zbyt dużo krwi lub gnijących zwłok. Wymioty to dla niego tylko część życia.",
       "stats": [
 
       ],
@@ -48987,7 +48889,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy feels naturally anxious, but especially from social situations. They will not attend any gatherings and may occasionally need alone time in their room to breathe.",
+      "description": "Timmy czuje ciągły niepokój. Zwłaszcza w interakcjach społecznych. Nie będzie brał udziału w zbiorowiskach i od czasu do czasu musi złapać oddech. Sam. W swoim pokoju.",
       "stats": [
         "Only mental break \"VTE_PanicFreezing\" allowed."
       ],
@@ -49017,7 +48919,7 @@
       "degree": 0
     },
     {
-      "description": "No amount of lovin' is enough lovin' for Timmy. on will tend to jump from partner to partner and tumble between the sheets with them frequently.",
+      "description": "Żadna ilość miłości nie wystarcza dla Timmy'ego. Będzie miał tendencję do skakania z kwiatka na kwiatek.",
       "stats": [
 
       ],
@@ -49051,7 +48953,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy refuses to give their body to anybody but their spouse and would never fathom initiating a divorce. They also hate being nude much more than other pawns.",
+      "description": "Timmy odmawia dawania swojego ciała komukolwiek innemu niż swojej ukochanej. Nie może wyobrazić sobie że mógłby zainicjować rozwód. Nie cierpi bycia nagim bardziej niż pozostali koloniści.",
       "stats": [
 
       ],
@@ -49083,7 +48985,7 @@
       "degree": 0
     },
     {
-      "description": "An armchair and flatscreen is all Timmy needs to be happy. Even reruns or ancient commercials are entertaining to them, they will never grow bored of television and tend to watch it more, as well as feel pleased after doing so.",
+      "description": "Krzesło i telewizor to wszystko czego potrzebuje Timmy do szczęścia. Nawet powtórki starych reklam Vanisha są dla niego rozrywką. Nigdy nie znudzi się telewizją. Jest skłonny oglądać jej więcej i być z tego faktu bardzo zadowolonym.",
       "stats": [
 
       ],
@@ -49113,7 +49015,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy is mad for all things feline. They will naturally gravitate towards bonding with cats, however they're not a fan of dogs.",
+      "description": "Timmy wariuje na punkcie rzeczy związanych z kotami. Naturalnie będzie skłaniał się do przyjaźni z kotami. Nie jest fanem psów.",
       "stats": [
 
       ],
@@ -49143,7 +49045,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy is mad for all things canine. They will naturally gravitate towards bonding with dogs, however they're not a fan of cats.",
+      "description": "Timmy wariuje na punkcie rzeczy związanych z psami. Naturalnie będzie skłaniał się do przyjaźni z psami. Nie jest fanem kotów.",
       "stats": [
 
       ],
@@ -49173,7 +49075,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy is a natural scientist. They research much faster and recall things better. However, they'll be upset without a laboratory dedicated to their work and tend to stress out more frequently.",
+      "description": "Timmy jest urodzonym naukowcem. Bada wszystko dużo szybciej i lepiej zapamiętuje rzeczy. Będzie smutny bez laboratorium w którym mógłby pracować i ma tendencję do częstego stresu.",
       "stats": [
         "+20% próg poziomu załamania",
         "x130% szybkość badań"
@@ -49205,7 +49107,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy believes animals are integral to the way society and life functions from furry friends to sources of food. They love having as many as possible and are particularly good at taming and training them.",
+      "description": "Timmy wierzy że zwierzęta są integralną częścią społeczeństwa, od futrzastych przyjaciół po źródło pożywienia. Chciałby posiadać ich tak dużo jak to tylko możliwe. Jest całkiem dobry w oswajaniu i szkoleniu ich.",
       "stats": [
         "x120% szansa oswojenia zwierzęcia",
         "x120% szansa wytresowania zwierzęcia"
@@ -49237,7 +49139,7 @@
       "degree": 0
     },
     {
-      "description": "The sea calls to Timmy. on feels happier just being near the ocean or a deep river.",
+      "description": "Zew morza wzywa Timmy'ego. Czuje się szczęśliwszy będąc blisko oceanu czy głębokiej rzeki.",
       "stats": [
 
       ],
@@ -49267,7 +49169,7 @@
       "degree": 0
     },
     {
-      "description": "The mountains call to Timmy. on feels happier just being near a large mountain.",
+      "description": "Zew gór wzywa Timmy'ego. Czuje się szczęśliwszy przebywając blisko dużej góry.",
       "stats": [
 
       ],
@@ -49297,7 +49199,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy has a twisted secret. on treats organ harvesting like a sick experiment, and does not even blink at the idea. While harvesting one will make them happy, going too long without giving in to their compulsion will upset them.",
+      "description": "Timmy ma pokręcony sekret. Pobieranie organów traktuje jak chory eksperyment i nawet nie mrugnie okiem podczas przeprowadzania go. Podczas gdy pobranie jednego organu uczyni go szczęśliwym, pobranie większej ilości może go zdenerwować.",
       "stats": [
         "+20% czynnik powodzenia operacji"
       ],
@@ -49327,7 +49229,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy is supposedly a hand-to-hand combat specialist, but only when inebriated. They claim to become more talented the more drunk they are.",
+      "description": "Timmy jest podobno specjalistą od walki wręcz, ale tylko wtedy gdy jest nietrzeźwy. Twierdzi że staje się tym bardziej utalentowany im bardziej jest pijany.",
       "stats": [
         "+4 walka wręcz"
       ],
@@ -49357,7 +49259,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy is compulsed to steal and take things that don't belong to them, even if it means angering the other party.",
+      "description": "Timmy ma nawyk przywłaszczania sobie rzeczy które nie należą do niego. Nawet jeżeli miałoby to kogoś rozzłościć.",
       "stats": [
         "Only mental break \"VTE_Kleptomaniac\" allowed."
       ],
@@ -49387,7 +49289,7 @@
       "degree": 0
     },
     {
-      "description": "Smokeleaf culture is just part of life for Timmy. on absolutely adores smokeleaf and would rather die before giving it up.",
+      "description": "Kultura palenia zioła jest częścią życia Timmy'ego. Absolutnie uwielbia palić zioło i prędzej umrze niż przestanie.",
       "stats": [
 
       ],
@@ -49423,7 +49325,7 @@
       "degree": 0
     },
     {
-      "description": "Alcohol culture is just part of life for Timmy. on absolutely adores booze and would rather die before giving it up.",
+      "description": "Picie alkoholu jest częścią życia Timmy'ego. Absolutnie uwielbia gorzałę i prędzej umrze niż przestanie pić.",
       "stats": [
 
       ],
@@ -49459,7 +49361,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy loves to travel and does so swiftly, but can grow upset if they haven't done so in a while. They are also quite adept at foraging while traveling.",
+      "description": "Timmy kocha podróżować i wychodzi mu to całkiem sprawnie. Może stać się smutny jeżeli nie robił tego od dłuższego czasu. Jest ekspertem w szukaniu zapasów podczas podróży.",
       "stats": [
         "+0.2 ilość zebranej żywności"
       ],
@@ -49489,7 +49391,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy is never really asleep or awake. on is almost zombie like, lurching along and working very slowly, and will only sleep once every three days or so.",
+      "description": "Timmy nigdy nie śpi ani nie jest obudzony. Jest prawie jak zombie, porusza się chwiejnym krokiem i pracuje bardzo powoli. Śpi raz na trzy dni albo coś koło tego.",
       "stats": [
         "x50% globalna szybkość pracy",
         "x70% prędkość ruchu"
@@ -49521,7 +49423,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy has grown tired of the world and needs to be constantly distracted to stop dark thoughts. jego bleak personality is a big downer and therefore it is very hard to become friends with them.",
+      "description": "Timmy jest zmęczony światem i musi być ciągle rozpraszany by zatrzymać mroczne myśli. Jego ponura osobowość jest bardzo przygnębiająca i dlatego bardzo trudno się z nimi zaprzyjaźnić.",
       "stats": [
 
       ],
@@ -49551,7 +49453,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy is hardened through what can only be presumed as old emotional trauma. They feel absolutely nothing from lost animals, colonists, family, prisoners or dead bodies.",
+      "description": "Timmy jest zahartowany przez coś, co można uznać za starą emocjonalną traumę. Nie robi sobie nic z zaginionych zwierząt, kolonistów, rodziny, więźniów lub martwych ciał.",
       "stats": [
 
       ],
@@ -49581,7 +49483,7 @@
       "degree": 0
     },
     {
-      "description": "Only the finest of culinary creations may grace the lips of Timmy. They feel neutral towards mundane meals, but will laud and savour lavish meals down to the last bite.",
+      "description": "Tylko najlepsze kulinarne kreacje mogą dotknąć ust Timmy'ego. Ma neutralny stosunek do przeciętnych posiłków, ale będzie chwalić i delektować się obfitymi posiłkami do ostatniego kęsa.",
       "stats": [
         "x70% szybkość jedzenia"
       ],
@@ -49611,7 +49513,7 @@
       "degree": 0
     },
     {
-      "description": "Whether through studying ancient manuscripts or years of scholastic pursuit Timmy is surprisingly well read on a variety of topics, particularly science and medical practice.",
+      "description": "Niezależnie od tego, czy studiując starożytne rękopisy, czy też przez lata badań naukowych, Timmy jest zaskakująco dobrze oczytany w różnych tematach. Zwłaszcza w nauce i praktyce medycznej.",
       "stats": [
         "+4 intelektualne",
         "+4 medyczne",
@@ -49645,7 +49547,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy strongly believes infrastucture rules all and is a natural born stoneworker.",
+      "description": "Timmy mocno wierzy że infrastruktura rządzi światem, co sprawiło że stał się zawodowym kamieniarzem.",
       "stats": [
         "+4 górnictwo",
         "+4 budownictwo",
@@ -49681,7 +49583,7 @@
       "degree": 0
     },
     {
-      "description": "In the eyes of Timmy food is art, their culinary creations are incredibly beautiful, amazing to taste, and almost always safe to eat.",
+      "description": "W oczach Timmy'ego jedzenie jest sztuką. Jego kreacje kulinarne są niesamowicie piękne, smaczne i prawie zawsze bezpieczne do jedzenia.",
       "stats": [
         "+4 gotowanie",
         "+4 sztuka",
@@ -49715,7 +49617,7 @@
       "degree": 0
     },
     {
-      "description": "Flora and fauna are both vital to Timmy. They use all parts of plants and animals and strongly appreciate mother Gaia's blessings.",
+      "description": "Zarówno flora, jak i fauna są dla Timmy'ego ważne. Używa wszystkich części roślin i zwierząt i bardzo docenia błogosławieństwo matki Gai.",
       "stats": [
         "+4 zwierzęce",
         "+4 uprawa",
@@ -49751,7 +49653,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy has an eye for silver and a tongue made from it. They believe their products are the best products and on will likely convince you if given the chance.",
+      "description": "Timmy ma oko na swoich pieniądzach i srebrny język. Wierzy że jego produkty są najlepsze i prawdopodobnie by Cię przekonał do zakupu gdyby tylko miał okazję.",
       "stats": [
         "+4 społeczne",
         "+4 rzemieślnictwo",
@@ -49785,7 +49687,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy is strangely hypercoagulating and will bleed much more slowly than most.",
+      "description": "Timmy ma dziwną nadkrzepliwość i będzie krwawić znacznie wolniej niż pozostali.",
       "stats": [
 
       ],
@@ -49815,7 +49717,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy is strangely hemophilic and tends to bleed much more profusely than others.",
+      "description": "Timmy ma dziwną niedokrzepliwość i ma skłonność do krwawień znacznie bardziej obfitych niż inni.",
       "stats": [
 
       ],
@@ -49845,7 +49747,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy has trouble expressing themselves until its all too much to bear, whereafter they will have an utter meltdown.",
+      "description": "Timmy ma problemy z wyrażaniem siebie dopóki nie będzie to zbyt trudne do zniesienia. W takim wypadku doznaje całkowitego załamania.",
       "stats": [
 
       ],
@@ -49898,7 +49800,7 @@
         "karmaType": null,
         "customName": false
       },
-      "description": "Najzwyklejszy człowiek, w większości niezmodyfikowany przez inżynierię genów i przeważnie niezmieniony przez ewolucyjne naciski na pozaziemskich planetach.",
+      "description": "Przeciętny człowiek. W większości niezmodyfikowany genetycznie i niezmieniony przez naciski ewolucyjne mieszkańców innych planet.",
       "defName": "Human",
       "enabled": true,
       "name": "human",
