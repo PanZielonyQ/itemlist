@@ -2,7 +2,7 @@
         onclick="changeTab(event, '{{- include.id -}}')">
 
         {%- case include.id -%}
-            {%- when 'Przedmioty' -%}
+            {%- when 'items' -%}
                 {{- site.data.language.items_tab -}}
             {%- when 'events' -%}
                 {{- site.data.language.events_tab -}}
