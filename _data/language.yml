@@ -1,10 +1,10 @@
 # Tabs
-items_tab: 'Items'
-events_tab: 'Events'
-traits_tab: 'Traits'
-animals_tab: 'Animals'
-weapons_tab: 'Weapons'
-pawn_kinds_tab: 'Pawn Kinds'
+items_tab: 'Przedmioty'
+events_tab: 'Wydarzenia'
+traits_tab: 'Cechy'
+animals_tab: 'Zwierzęta'
+weapons_tab: 'Bronie'
+pawn_kinds_tab: 'Rodzaje Kolonistów'
 
 # Table headers
 mod_name_header: Mod Name
