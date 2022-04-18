@@ -41,7 +41,7 @@ Witaj na kanale [{{ site.data.social.twitch }}](https://twitch.tv/{{ site.data.s
 
 ## Czym jest Twitch Toolkit?
 
-Twitch Toolkit jest modem stworzonym przez hodlhodl który pozwala widzom wpływać na rozgrywkę na wiele różnych sposobów. Najbardziej wyróżniającym się sposobem jest sklep - [store]({{- "/" | relative_url -}}), który pozwala Ci kupować rzeczy, które mają pomóc streamerowi w rozgrywce. W zależności od zakupu rzeczy te pojawią się w grze lub w pewien sposób wpłyną na rozgrywkę. Innym sposobem w jaki widz może wpływać na rozgrywkę są ankiety wywoływane przez mod. Wybory których będziesz dokonywać w ankiecie są uzależnione od tego, które opcje w modzie są włączone.
+Twitch Toolkit jest modem stworzonym przez hodlhodl który pozwala widzom wpływać na rozgrywkę na wiele różnych sposobów. Najbardziej wyróżniającym się sposobem jest sklep - [SKLEP]({{- "/" | relative_url -}}), który pozwala Ci kupować rzeczy, które mają pomóc streamerowi w rozgrywce. W zależności od zakupu rzeczy te pojawią się w grze lub w pewien sposób wpłyną na rozgrywkę. Innym sposobem w jaki widz może wpływać na rozgrywkę są ankiety wywoływane przez mod. Wybory których będziesz dokonywać w ankiecie są uzależnione od tego, które opcje w modzie są włączone.
 
 ## Jak dołączyć do koloni?
 Aby dołączyć do rozgrywki skorzystaj z którejś z poniższych komend:
@@ -66,7 +66,7 @@ Po wpisaniu komendy bal może wyświetlić Ci się parę dodatkowych emotek. W t
 
 
 {%- if lootboxes == true -%}
-Dostaniesz wiadomość od bota jeśli otrzymasz lootboxa. Możesz otworzyć lootboxa używając komendy`!openlootbox`. Ilość lootboxów które posiadasz możesz sprawdzić korzystając z komendy `!lootboxes`. Codziennie dostaniesz nowego lootboxa.
+Dostaniesz wiadomość od bota jeśli otrzymasz lootboxa. Możesz otworzyć lootboxa używając komendy`!openlootbox`. Ilość lootboxów które posiadasz możesz sprawdzić korzystając z komendy `!lootboxes`. Codziennie dostaniesz nowego lootboxa. AKTUALNIE NIEAKTYWNE, PSUJE MOCNO BALANS!
 {%- endif -%}
 
 
@@ -77,7 +77,7 @@ Karma jest systemem w modzie który próbuje ograniczać ilość negatywnych wyd
 
 ## W jaki sposób używać Twitch Toolkit?
 
-Możesz używać Twitch Toolkit na wiele sposobów -- najczęściej korzystasz z niego poprzez komendy - [commands]({{- "/commands" | relative_url -}}). Jedną z ważniejszych komend jest komenda `{{- buy -}}` która pozwala na kupowanie rzeczy ze sklepu. Inną godną napomnienia komendą jest komenda `!mypawn`, która pozwala Tobie na zobaczenie informacji o swoim koloniście. Nie opiszemy tutaj każej z komend, ale większość z nich powinna sama z nazwy mówić Wam o swojej funkcji albo mieć opis tego co robi na stronie Komendy - [commands]({{- "/commands" | relative_url -}}) .
+Możesz używać Twitch Toolkit na wiele sposobów -- najczęściej korzystasz z niego poprzez komendy - [KOMENDY]({{- "/commands" | relative_url -}}). Jedną z ważniejszych komend jest komenda `{{- buy -}}` która pozwala na kupowanie rzeczy ze sklepu. Inną godną napomnienia komendą jest komenda `!mypawn`, która pozwala Tobie na zobaczenie informacji o swoim koloniście. Nie opiszemy tutaj każej z komend, ale większość z nich powinna sama z nazwy mówić Wam o swojej funkcji albo mieć opis tego co robi na stronie Komendy - [KOMENDY]({{- "/commands" | relative_url -}}) .
 
 
 {%- if puppeteer -%}
