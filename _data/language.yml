@@ -39,7 +39,7 @@ search_events: 'Szukaj wydarzeń...'
 search_weapons: 'Szukaj broni...'
 
 # Metadata
-usage: 'Zużycie: %s'
+usage: 'Użycie: %s'
 shortcut: 'To jest skrót dla %s'
 stats: 'Statystyki'
 conflicts_with: 'Wchodzi w konflikt z'
