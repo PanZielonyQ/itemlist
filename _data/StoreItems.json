@@ -1,4 +1,4 @@
-{
+﻿{
   "items": [
     {
       "abr": "beer",
@@ -188,21 +188,21 @@
     },
     {
       "abr": "powerclaw",
-      "category": "Bioniczne",
+      "category": "Protetyczne",
       "defname": "PowerClaw",
-      "price": 1158
+      "price": 1208
     },
     {
       "abr": "joywire",
-      "category": "Bioniczne",
+      "category": "Protetyczne",
       "defname": "Joywire",
-      "price": 2133
+      "price": 2183
     },
     {
       "abr": "painstopper",
-      "category": "Bioniczne",
+      "category": "Protetyczne",
       "defname": "Painstopper",
-      "price": 2133
+      "price": 2183
     },
     {
       "abr": "urn",
@@ -2398,7 +2398,7 @@
       "abr": "advancedpowerclaw",
       "category": "Ultratyczne",
       "defname": "AdvancedPowerClaw",
-      "price": 2217
+      "price": 2267
     },
     {
       "abr": "advancedvest",
@@ -3325,7 +3325,7 @@
       "price": 327
     },
     {
-      "abr": "piano",
+      "abr": "uprightpiano",
       "category": "Meble",
       "defname": "Joy_Piano",
       "price": 908
@@ -3436,7 +3436,7 @@
       "abr": "powerarm",
       "category": "Bioniczne",
       "defname": "PowerArm",
-      "price": 3450
+      "price": 3500
     },
     {
       "abr": "hookhand",
@@ -4102,7 +4102,7 @@
       "abr": "advancedpowerarm",
       "category": "Ultratyczne",
       "defname": "AdvancedPowerArm",
-      "price": 5175
+      "price": 5225
     },
     {
       "abr": "advancedbionicspine",
@@ -4453,12 +4453,6 @@
       "price": 583
     },
     {
-      "abr": "sleepaccelerator",
-      "category": "Różne",
-      "defname": "SleepAccelerator",
-      "price": 458
-    },
-    {
       "abr": "ambusherskill:ambush",
       "category": "Scrolls",
       "defname": "SkillOf_Ambush",
@@ -4493,12 +4487,6 @@
       "category": "Użytkowe",
       "defname": "VAEA_Apparel_AmmoPack",
       "price": 176
-    },
-    {
-      "abr": "amulet",
-      "category": "Bezwładne relikwie",
-      "defname": "VIE_RelicInertAmulet",
-      "price": 833
     },
     {
       "abr": "amuletofclarity",
@@ -4981,12 +4969,6 @@
       "price": 250
     },
     {
-      "abr": "ark",
-      "category": "Bezwładne relikwie",
-      "defname": "RelicInertArk",
-      "price": 833
-    },
-    {
       "abr": "armorofthevaliant",
       "category": "Magic apparel",
       "defname": "RoyalArmor",
@@ -5057,18 +5039,6 @@
       "category": "Użytkowe",
       "defname": "VAEA_Apparel_BattleBanner",
       "price": 93
-    },
-    {
-      "abr": "drum",
-      "category": "Rekreacja",
-      "defname": "Drum",
-      "price": 205
-    },
-    {
-      "abr": "bedbug",
-      "category": "Zwierzęta",
-      "defname": "AA_BedBug",
-      "price": 167
     },
     {
       "abr": "bedbugegg(fert.)",
@@ -5299,12 +5269,6 @@
       "price": 6375
     },
     {
-      "abr": "bracelet",
-      "category": "Bezwładne relikwie",
-      "defname": "VIE_RelicInertBracelet",
-      "price": 833
-    },
-    {
       "abr": "brightmagespell:spiritoflight",
       "category": "Scrolls",
       "defname": "SpellOf_SpiritOfLight",
@@ -5333,18 +5297,6 @@
       "category": "Zwierzęta",
       "defname": "AA_BumbledroneQueen",
       "price": 750
-    },
-    {
-      "abr": "burka",
-      "category": "Strój",
-      "defname": "Apparel_Burka",
-      "price": 224
-    },
-    {
-      "abr": "bottle",
-      "category": "Bezwładne relikwie",
-      "defname": "VIE_RelicInertBottle",
-      "price": 833
     },
     {
       "abr": "cactipine",
@@ -5869,48 +5821,6 @@
       "price": 417
     },
     {
-      "abr": "authoritycap",
-      "category": "Nakrycie głowy",
-      "defname": "Apparel_AuthorityCap",
-      "price": 92
-    },
-    {
-      "abr": "tailcap",
-      "category": "Nakrycie głowy",
-      "defname": "Apparel_Tailcap",
-      "price": 75
-    },
-    {
-      "abr": "skull",
-      "category": "Przedmioty",
-      "defname": "Skull",
-      "price": 8
-    },
-    {
-      "abr": "skull",
-      "category": "Bezwładne relikwie",
-      "defname": "VIE_RelicInertSkull",
-      "price": 833
-    },
-    {
-      "abr": "skullspike",
-      "category": "Różne",
-      "defname": "Skullspike",
-      "price": 101
-    },
-    {
-      "abr": "insectskull",
-      "category": "Bezwładne relikwie",
-      "defname": "VIE_RelicInertInsectSkull",
-      "price": 833
-    },
-    {
-      "abr": "slicecap",
-      "category": "Nakrycie głowy",
-      "defname": "Apparel_Slicecap",
-      "price": 62
-    },
-    {
       "abr": "daeodon",
       "category": "Zwierzęta",
       "defname": "Daeodon",
@@ -6097,12 +6007,6 @@
       "price": 1833
     },
     {
-      "abr": "bonsaipot",
-      "category": "Meble",
-      "defname": "PlantPot_Bonsai",
-      "price": 82
-    },
-    {
       "abr": "dragoonskill:bloodofthedragon",
       "category": "Scrolls",
       "defname": "SkillOf_BloodOfTheDragon",
@@ -6215,12 +6119,6 @@
       "category": "Zwierzęta",
       "defname": "AA_DuskRat",
       "price": 58
-    },
-    {
-      "abr": "ring",
-      "category": "Bezwładne relikwie",
-      "defname": "VIE_RelicInertRing",
-      "price": 833
     },
     {
       "abr": "elasmotherium",
@@ -6377,12 +6275,6 @@
       "category": "Zwierzęta",
       "defname": "AA_EngorgedTentacularAberration",
       "price": 917
-    },
-    {
-      "abr": "engram",
-      "category": "Bezwładne relikwie",
-      "defname": "VIE_RelicInertEngram",
-      "price": 833
     },
     {
       "abr": "enhydriodon",
@@ -6655,12 +6547,6 @@
       "price": 58
     },
     {
-      "abr": "sacrificialflag",
-      "category": "Różne",
-      "defname": "SacrificialFlag",
-      "price": 198
-    },
-    {
       "abr": "flamingophoenix",
       "category": "Zwierzęta",
       "defname": "AA_FlamingoPhoenix",
@@ -6677,12 +6563,6 @@
       "category": "Animal",
       "defname": "TM_FleshGolem",
       "price": 4500
-    },
-    {
-      "abr": "fragment",
-      "category": "Bezwładne relikwie",
-      "defname": "RelicInertFragment",
-      "price": 833
     },
     {
       "abr": "frostave",
@@ -6857,24 +6737,6 @@
       "category": "Melee",
       "defname": "TM_GloryMaul",
       "price": 2825
-    },
-    {
-      "abr": "loudspeaker",
-      "category": "Różne",
-      "defname": "Loudspeaker",
-      "price": 367
-    },
-    {
-      "abr": "mechanoidhead",
-      "category": "Bezwładne relikwie",
-      "defname": "VIE_RelicInertMechanoidHead",
-      "price": 833
-    },
-    {
-      "abr": "axehead",
-      "category": "Bezwładne relikwie",
-      "defname": "VIE_RelicInertAxeHead",
-      "price": 833
     },
     {
       "abr": "golemancerspell:awarenessbrand",
@@ -7093,18 +6955,6 @@
       "price": 2333
     },
     {
-      "abr": "spikecorefloor-star(medium)",
-      "category": "Meble",
-      "defname": "SpikecoreFloorStar_Medium",
-      "price": 323
-    },
-    {
-      "abr": "spikecorefloor-star(broad)",
-      "category": "Meble",
-      "defname": "SpikecoreFloorStar_Broad",
-      "price": 483
-    },
-    {
       "abr": "harbingerspell:sacrificialpact",
       "category": "Scrolls",
       "defname": "SpellOf_SacrificialPact",
@@ -7151,12 +7001,6 @@
       "category": "Przetworzone",
       "defname": "AA_HexagelCore",
       "price": 70
-    },
-    {
-      "abr": "broadwrap",
-      "category": "Nakrycie głowy",
-      "defname": "Apparel_Broadwrap",
-      "price": 111
     },
     {
       "abr": "hippocraticoath:medic",
@@ -7237,12 +7081,6 @@
       "price": 900
     },
     {
-      "abr": "idol",
-      "category": "Bezwładne relikwie",
-      "defname": "VIE_RelicInertIdol",
-      "price": 833
-    },
-    {
       "abr": "ieltxu",
       "category": "Zwierzęta",
       "defname": "MM_Ieltxu",
@@ -7253,12 +7091,6 @@
       "category": "Jaja (zapłod.)",
       "defname": "MM_EggIeltxuFertilized",
       "price": 15
-    },
-    {
-      "abr": "implant",
-      "category": "Bezwładne relikwie",
-      "defname": "VIE_RelicInertImplant",
-      "price": 833
     },
     {
       "abr": "infectedaerofleet",
@@ -7429,28 +7261,10 @@
       "price": 15
     },
     {
-      "abr": "incenseshrine",
-      "category": "Różne",
-      "defname": "IncenseShrine",
-      "price": 272
-    },
-    {
       "abr": "kappa",
       "category": "Zwierzęta",
       "defname": "MM_Kappa",
       "price": 583
-    },
-    {
-      "abr": "biosculpterpod",
-      "category": "Różne",
-      "defname": "BiosculpterPod",
-      "price": 758
-    },
-    {
-      "abr": "chalice",
-      "category": "Bezwładne relikwie",
-      "defname": "RelicInertCup",
-      "price": 833
     },
     {
       "abr": "kitsune",
@@ -7459,76 +7273,10 @@
       "price": 417
     },
     {
-      "abr": "gibbetcage",
-      "category": "Różne",
-      "defname": "GibbetCage",
-      "price": 210
-    },
-    {
       "abr": "smilodonfangs",
       "category": "Przedmioty",
       "defname": "SmilodonFangs",
       "price": 1333
-    },
-    {
-      "abr": "kneelsheet",
-      "category": "Meble",
-      "defname": "KneelSheet",
-      "price": 281
-    },
-    {
-      "abr": "torturecrown",
-      "category": "Nakrycie głowy",
-      "defname": "Apparel_TortureCrown",
-      "price": 91
-    },
-    {
-      "abr": "bone",
-      "category": "Bezwładne relikwie",
-      "defname": "VIE_RelicInertBone",
-      "price": 833
-    },
-    {
-      "abr": "cube",
-      "category": "Bezwładne relikwie",
-      "defname": "RelicInertCube",
-      "price": 833
-    },
-    {
-      "abr": "book",
-      "category": "Bezwładne relikwie",
-      "defname": "VIE_RelicInertBook",
-      "price": 833
-    },
-    {
-      "abr": "mug",
-      "category": "Bezwładne relikwie",
-      "defname": "VIE_RelicInertMug",
-      "price": 833
-    },
-    {
-      "abr": "effigy",
-      "category": "Różne",
-      "defname": "Effigy",
-      "price": 178
-    },
-    {
-      "abr": "orb",
-      "category": "Bezwładne relikwie",
-      "defname": "VIE_RelicInertApple",
-      "price": 833
-    },
-    {
-      "abr": "lightball",
-      "category": "Różne",
-      "defname": "LightBall",
-      "price": 154
-    },
-    {
-      "abr": "chain",
-      "category": "Bezwładne relikwie",
-      "defname": "VIE_RelicInertChain",
-      "price": 833
     },
     {
       "abr": "larvae",
@@ -7541,12 +7289,6 @@
       "category": "Zwierzęta",
       "defname": "AA_LarvalAtispec",
       "price": 25
-    },
-    {
-      "abr": "pew",
-      "category": "Meble",
-      "defname": "Pew",
-      "price": 350
     },
     {
       "abr": "lernaeanhydra",
@@ -7607,12 +7349,6 @@
       "category": "Zwierzęta",
       "defname": "AA_Lockjaw",
       "price": 917
-    },
-    {
-      "abr": "slabbed",
-      "category": "Meble",
-      "defname": "SlabBed",
-      "price": 102
     },
     {
       "abr": "luciferbug",
@@ -7927,12 +7663,6 @@
       "price": 1
     },
     {
-      "abr": "visagemask",
-      "category": "Nakrycie głowy",
-      "defname": "Apparel_VisageMask",
-      "price": 62
-    },
-    {
       "abr": "maturefleshbeast",
       "category": "Zwierzęta",
       "defname": "AA_MatureFleshbeast",
@@ -7985,12 +7715,6 @@
       "category": "Animal",
       "defname": "TM_MechaGolem",
       "price": 5000
-    },
-    {
-      "abr": "medallion",
-      "category": "Bezwładne relikwie",
-      "defname": "VIE_RelicInertMedallion",
-      "price": 833
     },
     {
       "abr": "medicbag",
@@ -8110,12 +7834,6 @@
       "abr": "hollowgolemmeat",
       "category": "Mięso",
       "defname": "Meat_TM_HollowGolem",
-      "price": 3
-    },
-    {
-      "abr": "immaturedryadmeat",
-      "category": "Mięso",
-      "defname": "Meat_Dryad_Basic",
       "price": 3
     },
     {
@@ -8347,12 +8065,6 @@
       "price": 1983
     },
     {
-      "abr": "bowl",
-      "category": "Bezwładne relikwie",
-      "defname": "VIE_RelicInertBowl",
-      "price": 833
-    },
-    {
       "abr": "sivatheriummilk",
       "category": "Produkty odzwierzęce",
       "defname": "SivatheriumMilk",
@@ -8389,26 +8101,20 @@
       "price": 9
     },
     {
-      "abr": "lectern",
-      "category": "Różne",
-      "defname": "Lectern",
-      "price": 227
-    },
-    {
       "abr": "mutantarm",
-      "category": "Naturalne",
+      "category": "Teratogenic parts",
       "defname": "AA_MutantArm",
       "price": 167
     },
     {
       "abr": "mutanteye",
-      "category": "Naturalne",
+      "category": "Teratogenic parts",
       "defname": "AA_MutantEye",
       "price": 167
     },
     {
       "abr": "mutantleg",
-      "category": "Naturalne",
+      "category": "Teratogenic parts",
       "defname": "AA_MutantLeg",
       "price": 167
     },
@@ -8441,18 +8147,6 @@
       "category": "Scrolls",
       "defname": "SkillOf_OfudaStorm",
       "price": 2667
-    },
-    {
-      "abr": "tools",
-      "category": "Bezwładne relikwie",
-      "defname": "VIE_RelicInertTools",
-      "price": 833
-    },
-    {
-      "abr": "gauranlenseed",
-      "category": "Przedmioty",
-      "defname": "GauranlenSeed",
-      "price": 117
     },
     {
       "abr": "necromancerspell:lichform",
@@ -8557,18 +8251,6 @@
       "price": 2667
     },
     {
-      "abr": "shroud",
-      "category": "Bezwładne relikwie",
-      "defname": "VIE_RelicInertShroud",
-      "price": 833
-    },
-    {
-      "abr": "slavecollar",
-      "category": "Nakrycie głowy",
-      "defname": "Apparel_Collar",
-      "price": 94
-    },
-    {
       "abr": "ocularjelly",
       "category": "Zwierzęta",
       "defname": "AA_OcularJelly",
@@ -8585,12 +8267,6 @@
       "category": "Zwierzęta",
       "defname": "AA_OcularNightling",
       "price": 1250
-    },
-    {
-      "abr": "blindfold",
-      "category": "Nakrycie głowy",
-      "defname": "Apparel_Blindfold",
-      "price": 74
     },
     {
       "abr": "oraclespell:grandexpanse",
@@ -8677,12 +8353,6 @@
       "price": 1725
     },
     {
-      "abr": "slavebodystrap",
-      "category": "Strój",
-      "defname": "Apparel_BodyStrap",
-      "price": 275
-    },
-    {
       "abr": "pebblemit",
       "category": "Zwierzęta",
       "defname": "AA_PebbleMit",
@@ -8729,12 +8399,6 @@
       "category": "Zwierzęta",
       "defname": "AA_PhoenixOwlcat",
       "price": 417
-    },
-    {
-      "abr": "pyramid",
-      "category": "Bezwładne relikwie",
-      "defname": "VIE_RelicInertPyramid",
-      "price": 833
     },
     {
       "abr": "plantmeat",
@@ -8785,70 +8449,16 @@
       "price": 2000
     },
     {
-      "abr": "burnbong",
-      "category": "Różne",
-      "defname": "Burnbong",
-      "price": 517
-    },
-    {
-      "abr": "animalistslab(medium)",
-      "category": "Meble",
-      "defname": "AnimalistSlab_Medium",
-      "price": 342
-    },
-    {
-      "abr": "animalistslab(broad)",
-      "category": "Meble",
-      "defname": "AnimalistSlab_Broad",
-      "price": 508
-    },
-    {
-      "abr": "morbidslab(medium)",
-      "category": "Meble",
-      "defname": "MorbidSlab_Medium",
-      "price": 342
-    },
-    {
-      "abr": "morbidslab(broad)",
-      "category": "Meble",
-      "defname": "MorbidSlab_Broad",
-      "price": 508
-    },
-    {
       "abr": "pneumaticclaw",
       "category": "Insect",
       "defname": "VFEI_PneumaticClaw",
       "price": 2000
     },
     {
-      "abr": "kneelpillow",
-      "category": "Meble",
-      "defname": "KneelPillow",
-      "price": 98
-    },
-    {
-      "abr": "slabdoublebed",
-      "category": "Meble",
-      "defname": "SlabDoubleBed",
-      "price": 288
-    },
-    {
-      "abr": "polishedrock",
-      "category": "Bezwładne relikwie",
-      "defname": "VIE_RelicInertPolishedRock",
-      "price": 833
-    },
-    {
       "abr": "pomanafruit",
       "category": "Produkty roślinne",
       "defname": "TM_RawPomanasyrrium",
       "price": 4
-    },
-    {
-      "abr": "antlers",
-      "category": "Bezwładne relikwie",
-      "defname": "VIE_RelicInertAntlers",
-      "price": 833
     },
     {
       "abr": "megalocerosantlers",
@@ -8893,145 +8503,145 @@
       "price": 1500
     },
     {
-      "abr": "psycastneurotrainerlabel",
+      "abr": "psytrainer(painblock)",
       "category": "Trenery PSI",
       "defname": "Psytrainer_Painblock",
       "price": 417
     },
     {
-      "abr": "psycastneurotrainerlabel",
+      "abr": "psytrainer(stun)",
       "category": "Trenery PSI",
       "defname": "Psytrainer_Stun",
       "price": 417
     },
     {
-      "abr": "psycastneurotrainerlabel",
+      "abr": "psytrainer(burden)",
       "category": "Trenery PSI",
       "defname": "Psytrainer_Burden",
       "price": 417
     },
     {
-      "abr": "psycastneurotrainerlabel",
+      "abr": "psytrainer(blindingpulse)",
       "category": "Trenery PSI",
       "defname": "Psytrainer_BlindingPulse",
       "price": 667
     },
     {
-      "abr": "psycastneurotrainerlabel",
+      "abr": "psytrainer(neuralheatdump)",
       "category": "Trenery PSI",
       "defname": "Psytrainer_EntropyDump",
       "price": 667
     },
     {
-      "abr": "psycastneurotrainerlabel",
+      "abr": "psytrainer(beckon)",
       "category": "Trenery PSI",
       "defname": "Psytrainer_Beckon",
       "price": 917
     },
     {
-      "abr": "psycastneurotrainerlabel",
+      "abr": "psytrainer(vertigopulse)",
       "category": "Trenery PSI",
       "defname": "Psytrainer_VertigoPulse",
       "price": 917
     },
     {
-      "abr": "psycastneurotrainerlabel",
+      "abr": "psytrainer(chaosskip)",
       "category": "Trenery PSI",
       "defname": "Psytrainer_ChaosSkip",
       "price": 917
     },
     {
-      "abr": "psycastneurotrainerlabel",
+      "abr": "psytrainer(skip)",
       "category": "Trenery PSI",
       "defname": "Psytrainer_Skip",
       "price": 1167
     },
     {
-      "abr": "psycastneurotrainerlabel",
+      "abr": "psytrainer(wallraise)",
       "category": "Trenery PSI",
       "defname": "Psytrainer_Wallraise",
       "price": 1167
     },
     {
-      "abr": "psycastneurotrainerlabel",
+      "abr": "psytrainer(smokepop)",
       "category": "Trenery PSI",
       "defname": "Psytrainer_Smokepop",
       "price": 1167
     },
     {
-      "abr": "psycastneurotrainerlabel",
+      "abr": "psytrainer(focus)",
       "category": "Trenery PSI",
       "defname": "Psytrainer_Focus",
       "price": 1167
     },
     {
-      "abr": "psycastneurotrainerlabel",
+      "abr": "psytrainer(berserk)",
       "category": "Trenery PSI",
       "defname": "Psytrainer_Berserk",
       "price": 1417
     },
     {
-      "abr": "psycastneurotrainerlabel",
+      "abr": "psytrainer(invisibility)",
       "category": "Trenery PSI",
       "defname": "Psytrainer_Invisibility",
       "price": 1417
     },
     {
-      "abr": "psycastneurotrainerlabel",
+      "abr": "psytrainer(berserkpulse)",
       "category": "Trenery PSI",
       "defname": "Psytrainer_BerserkPulse",
       "price": 1667
     },
     {
-      "abr": "psycastneurotrainerlabel",
+      "abr": "psytrainer(manhunterpulse)",
       "category": "Trenery PSI",
       "defname": "Psytrainer_ManhunterPulse",
       "price": 1667
     },
     {
-      "abr": "psycastneurotrainerlabel",
+      "abr": "psytrainer(masschaosskip)",
       "category": "Trenery PSI",
       "defname": "Psytrainer_MassChaosSkip",
       "price": 1667
     },
     {
-      "abr": "psycastneurotrainerlabel",
+      "abr": "psytrainer(waterskip)",
       "category": "Trenery PSI",
       "defname": "Psytrainer_Waterskip",
       "price": 667
     },
     {
-      "abr": "psycastneurotrainerlabel",
+      "abr": "psytrainer(flashstorm)",
       "category": "Trenery PSI",
       "defname": "Psytrainer_Flashstorm",
       "price": 1417
     },
     {
-      "abr": "psycastneurotrainerlabel",
+      "abr": "psytrainer(bulletshield)",
       "category": "Trenery PSI",
       "defname": "Psytrainer_BulletShield",
       "price": 1667
     },
     {
-      "abr": "psycastneurotrainerlabel",
+      "abr": "psytrainer(solarpinhole)",
       "category": "Trenery PSI",
       "defname": "Psytrainer_SolarPinhole",
       "price": 417
     },
     {
-      "abr": "psycastneurotrainerlabel",
+      "abr": "psytrainer(farskip)",
       "category": "Trenery PSI",
       "defname": "Psytrainer_Farskip",
       "price": 1417
     },
     {
-      "abr": "psycastneurotrainerlabel",
+      "abr": "psytrainer(neuroquake)",
       "category": "Trenery PSI",
       "defname": "Psytrainer_Neuroquake",
       "price": 1667
     },
     {
-      "abr": "psycastneurotrainerlabel",
+      "abr": "psytrainer(chunkskip)",
       "category": "Trenery PSI",
       "defname": "Psytrainer_Chunkskip",
       "price": 417
@@ -9047,12 +8657,6 @@
       "category": "Użytkowe",
       "defname": "VFEI_Artifacts_PsychicPacifier",
       "price": 1083
-    },
-    {
-      "abr": "box",
-      "category": "Bezwładne relikwie",
-      "defname": "RelicInertBox",
-      "price": 833
     },
     {
       "abr": "pulmonoscorpius",
@@ -9193,18 +8797,6 @@
       "price": 2
     },
     {
-      "abr": "gauntlet",
-      "category": "Bezwładne relikwie",
-      "defname": "VIE_RelicInertGauntlet",
-      "price": 833
-    },
-    {
-      "abr": "hilt",
-      "category": "Bezwładne relikwie",
-      "defname": "RelicInertSwordHandle",
-      "price": 833
-    },
-    {
       "abr": "repairkit",
       "category": "Przetworzone",
       "defname": "RepairKit",
@@ -9283,12 +8875,6 @@
       "price": 1167
     },
     {
-      "abr": "horn",
-      "category": "Bezwładne relikwie",
-      "defname": "VIE_RelicInertHorn",
-      "price": 833
-    },
-    {
       "abr": "elasmotheriumhorn",
       "category": "Przedmioty",
       "defname": "ElasmotheriumHorn",
@@ -9349,28 +8935,10 @@
       "price": 2333
     },
     {
-      "abr": "rusticrug(medium)",
-      "category": "Meble",
-      "defname": "RusticRug_Medium",
-      "price": 256
-    },
-    {
-      "abr": "rusticrug(broad)",
-      "category": "Meble",
-      "defname": "RusticRug_Broad",
-      "price": 383
-    },
-    {
       "abr": "ruunbled",
       "category": "Melee",
       "defname": "TM_Ruunbled",
       "price": 13333
-    },
-    {
-      "abr": "terrorsculpture",
-      "category": "Sztuka",
-      "defname": "SculptureTerror",
-      "price": 517
     },
     {
       "abr": "salamander",
@@ -9571,12 +9139,6 @@
       "price": 3000
     },
     {
-      "abr": "fossil",
-      "category": "Bezwładne relikwie",
-      "defname": "VIE_RelicInertFossil",
-      "price": 833
-    },
-    {
       "abr": "skiphound",
       "category": "Zwierzęta",
       "defname": "AA_Skiphound",
@@ -9679,12 +9241,6 @@
       "price": 3
     },
     {
-      "abr": "stylingstation",
-      "category": "Meble",
-      "defname": "StylingStation",
-      "price": 375
-    },
-    {
       "abr": "staffofblazingpower",
       "category": "Magic foci",
       "defname": "TM_BlazingPowerStaff",
@@ -9701,18 +9257,6 @@
       "category": "Używki",
       "defname": "RFS_StaminaPotion",
       "price": 150
-    },
-    {
-      "abr": "statuette",
-      "category": "Bezwładne relikwie",
-      "defname": "VIE_RelicInertStatuette",
-      "price": 833
-    },
-    {
-      "abr": "standingdarklamp",
-      "category": "Meble",
-      "defname": "Darklamp",
-      "price": 65
     },
     {
       "abr": "stone",
@@ -9737,24 +9281,6 @@
       "category": "Animal",
       "defname": "TM_StoneGolem",
       "price": 2500
-    },
-    {
-      "abr": "pyre",
-      "category": "Różne",
-      "defname": "Pyre",
-      "price": 230
-    },
-    {
-      "abr": "stack",
-      "category": "Bezwładne relikwie",
-      "defname": "VIE_RelicInertStack",
-      "price": 833
-    },
-    {
-      "abr": "shadecone",
-      "category": "Nakrycie głowy",
-      "defname": "Apparel_Shadecone",
-      "price": 94
     },
     {
       "abr": "strikerskill:howlingfist",
@@ -9799,12 +9325,6 @@
       "price": 2333
     },
     {
-      "abr": "neuralsupercharger",
-      "category": "Różne",
-      "defname": "NeuralSupercharger",
-      "price": 408
-    },
-    {
       "abr": "supportspecialistskill:handheldrocket",
       "category": "Scrolls",
       "defname": "SkillOf_HandheldRocket",
@@ -9829,12 +9349,6 @@
       "price": 58
     },
     {
-      "abr": "christmastree",
-      "category": "Różne",
-      "defname": "ChristmasTree",
-      "price": 263
-    },
-    {
       "abr": "synapticcerebellum",
       "category": "Insect",
       "defname": "VFEI_SynapticCerebellum",
@@ -9847,40 +9361,10 @@
       "price": 75
     },
     {
-      "abr": "robe",
-      "category": "Strój",
-      "defname": "Apparel_Robe",
-      "price": 297
-    },
-    {
-      "abr": "flophat",
-      "category": "Nakrycie głowy",
-      "defname": "Apparel_Flophat",
-      "price": 74
-    },
-    {
-      "abr": "tablet",
-      "category": "Bezwładne relikwie",
-      "defname": "RelicInertTablet",
-      "price": 833
-    },
-    {
-      "abr": "cannibalplatter",
-      "category": "Różne",
-      "defname": "CannibalPlatter",
-      "price": 220
-    },
-    {
       "abr": "targuzzler",
       "category": "Zwierzęta",
       "defname": "AA_TarGuzzler",
       "price": 250
-    },
-    {
-      "abr": "tech",
-      "category": "Bezwładne relikwie",
-      "defname": "VIE_RelicInertEngine",
-      "price": 833
     },
     {
       "abr": "technomancerspell:kineticshield",
@@ -10171,18 +9655,6 @@
       "price": 2917
     },
     {
-      "abr": "totemicslab(medium)",
-      "category": "Meble",
-      "defname": "TotemicSlab_Medium",
-      "price": 342
-    },
-    {
-      "abr": "totemicslab(broad)",
-      "category": "Meble",
-      "defname": "TotemicSlab_Broad",
-      "price": 508
-    },
-    {
       "abr": "traumakit",
       "category": "Użytkowe",
       "defname": "SGC_Apparel_TraumaKit",
@@ -10237,12 +9709,6 @@
       "price": 1500
     },
     {
-      "abr": "headwrap",
-      "category": "Nakrycie głowy",
-      "defname": "Apparel_Headwrap",
-      "price": 75
-    },
-    {
       "abr": "twistedinspiration:plaguedoctor",
       "category": "Skill books",
       "defname": "BookOfPlaguedoctor",
@@ -10295,12 +9761,6 @@
       "category": "Nieprzetworzone",
       "defname": "AA_UraniumCrystals",
       "price": 108
-    },
-    {
-      "abr": "ceremonialmask",
-      "category": "Bezwładne relikwie",
-      "defname": "VIE_RelicInertCeremonialMask",
-      "price": 833
     },
     {
       "abr": "vat-grownboomtick",
@@ -10561,12 +10021,6 @@
       "price": 6
     },
     {
-      "abr": "bucket",
-      "category": "Bezwładne relikwie",
-      "defname": "VIE_RelicInertBucket",
-      "price": 833
-    },
-    {
       "abr": "wildminotaur",
       "category": "Zwierzęta",
       "defname": "MM_WildMinotaur",
@@ -10615,12 +10069,6 @@
       "price": 1250
     },
     {
-      "abr": "pendant",
-      "category": "Bezwładne relikwie",
-      "defname": "RelicInertPendant",
-      "price": 833
-    },
-    {
       "abr": "wizardhat",
       "category": "Magic apparel",
       "defname": "TM_WizardHat",
@@ -10636,42 +10084,6 @@
       "abr": "xiezhi",
       "category": "Zwierzęta",
       "defname": "MM_Xiezhi",
-      "price": 833
-    },
-    {
-      "abr": "youthserum",
-      "category": "Przedmioty",
-      "defname": "MechSerumYouth",
-      "price": 2333
-    },
-    {
-      "abr": "brokenmask",
-      "category": "Bezwładne relikwie",
-      "defname": "VIE_RelicInertBrokenMask",
-      "price": 833
-    },
-    {
-      "abr": "brokenspear",
-      "category": "Bezwładne relikwie",
-      "defname": "VIE_RelicInertBrokenSpear",
-      "price": 833
-    },
-    {
-      "abr": "brokensword",
-      "category": "Bezwładne relikwie",
-      "defname": "VIE_RelicInertSword",
-      "price": 833
-    },
-    {
-      "abr": "slag",
-      "category": "Bezwładne relikwie",
-      "defname": "VIE_RelicInertPlate",
-      "price": 833
-    },
-    {
-      "abr": "scroll",
-      "category": "Bezwładne relikwie",
-      "defname": "VIE_RelicInertScroll",
       "price": 833
     },
     {
@@ -10703,7 +10115,727 @@
       "category": "Infusers",
       "defname": "Infusion_Infuser_Legendary",
       "price": 3333
+    },
+    {
+      "abr": "bedbug",
+      "category": "Zwierzęta",
+      "defname": "AA_BedBug",
+      "price": 167
+    },
+    {
+      "abr": "magneticshield",
+      "category": "Zasilanie",
+      "defname": "Building_RTMagneticShield",
+      "price": 1633
+    },
+    {
+      "abr": "ambusherskill:caltrops",
+      "category": "Scrolls",
+      "defname": "SkillOf_Caltrops",
+      "price": 2000
+    },
+    {
+      "abr": "arcanetome:architect",
+      "category": "Skill books",
+      "defname": "BookOfArchitect",
+      "price": 5500
+    },
+    {
+      "abr": "architectspell:elementalrift",
+      "category": "Scrolls",
+      "defname": "SpellOf_ElementalRift",
+      "price": 3333
+    },
+    {
+      "abr": "bobeene",
+      "category": "Zwierzęta",
+      "defname": "AA_Bobeene",
+      "price": 917
+    },
+    {
+      "abr": "druid/arbormancerspell:miracleofnature",
+      "category": "Scrolls",
+      "defname": "SpellOf_MiracleOfNature",
+      "price": 3083
+    },
+    {
+      "abr": "fighterskill:smokesatchel",
+      "category": "Scrolls",
+      "defname": "SkillOf_SmokeSatchel",
+      "price": 1000
+    },
+    {
+      "abr": "micro-turret",
+      "category": "Obrona",
+      "defname": "TM_MicroTurretBD",
+      "price": 11
+    },
+    {
+      "abr": "shadowessence",
+      "category": "Używki",
+      "defname": "ShadowEssence",
+      "price": 1833
+    },
+    {
+      "abr": "tomeofinsight:explorer",
+      "category": "Skill books",
+      "defname": "BookOfExplorer",
+      "price": 5500
+    },
+    {
+      "abr": "tornscript:architect",
+      "category": "Skill books",
+      "defname": "Torn_BookOfArchitect",
+      "price": 2917
+    },
+    {
+      "abr": "winter'sreign",
+      "category": "Magic foci",
+      "defname": "TM_WinterStaff",
+      "price": 7500
+    },
+    {
+      "abr": "beret",
+      "category": "Nakrycie głowy",
+      "defname": "Apparel_Beret",
+      "price": 141
+    },
+    {
+      "abr": "commandtower",
+      "category": "Użytkowe",
+      "defname": "SGC_Apparel_CommandTower",
+      "price": 917
+    },
+    {
+      "abr": "tophat",
+      "category": "Nakrycie głowy",
+      "defname": "Apparel_HatTop",
+      "price": 203
+    },
+    {
+      "abr": "psychicreader",
+      "category": "Archotyczne",
+      "defname": "PsychicReader",
+      "price": 1667
+    },
+    {
+      "abr": "coronet",
+      "category": "Nakrycie głowy",
+      "defname": "Apparel_Coronet",
+      "price": 215
+    },
+    {
+      "abr": "fieldhand",
+      "category": "Protetyczne",
+      "defname": "FieldHand",
+      "price": 708
+    },
+    {
+      "abr": "techprint(molecularanalysis)",
+      "category": "Druki technologiczne",
+      "defname": "Techprint_MolecularAnalysis",
+      "price": 3333
+    },
+    {
+      "abr": "techprint(compactweaponry)",
+      "category": "Druki technologiczne",
+      "defname": "Techprint_CompactWeaponry",
+      "price": 1667
+    },
+    {
+      "abr": "techprint(circadianinfluence)",
+      "category": "Druki technologiczne",
+      "defname": "Techprint_CircadianInfluence",
+      "price": 3333
+    },
+    {
+      "abr": "techprint(neuralcomputation)",
+      "category": "Druki technologiczne",
+      "defname": "Techprint_NeuralComputation",
+      "price": 3333
+    },
+    {
+      "abr": "techprint(fleshshaping)",
+      "category": "Druki technologiczne",
+      "defname": "Techprint_FleshShaping",
+      "price": 3333
+    },
+    {
+      "abr": "techprint(jumppacks)",
+      "category": "Druki technologiczne",
+      "defname": "Techprint_JumpPack",
+      "price": 3333
+    },
+    {
+      "abr": "techprint(specializedlimbs)",
+      "category": "Druki technologiczne",
+      "defname": "Techprint_SpecializedLimbs",
+      "price": 1667
+    },
+    {
+      "abr": "techprint(poisonsynthesis)",
+      "category": "Druki technologiczne",
+      "defname": "Techprint_VenomSynthesis",
+      "price": 1667
+    },
+    {
+      "abr": "techprint(artificialmetabolism)",
+      "category": "Druki technologiczne",
+      "defname": "Techprint_ArtificialMetabolism",
+      "price": 3333
+    },
+    {
+      "abr": "techprint(healingfactors)",
+      "category": "Druki technologiczne",
+      "defname": "Techprint_HealingFactors",
+      "price": 3333
+    },
+    {
+      "abr": "techprint(skinhardening)",
+      "category": "Druki technologiczne",
+      "defname": "Techprint_SkinHardening",
+      "price": 3333
+    },
+    {
+      "abr": "techprint(cataphractarmor)",
+      "category": "Druki technologiczne",
+      "defname": "Techprint_CataphractArmor",
+      "price": 5000
+    },
+    {
+      "abr": "eltexskullcap",
+      "category": "Nakrycie głowy",
+      "defname": "Apparel_EltexSkullcap",
+      "price": 833
+    },
+    {
+      "abr": "eltexvest",
+      "category": "Strój",
+      "defname": "Apparel_PsyfocusVest",
+      "price": 833
+    },
+    {
+      "abr": "eltexshirt",
+      "category": "Strój",
+      "defname": "Apparel_PsyfocusShirt",
+      "price": 667
+    },
+    {
+      "abr": "eltexstaff",
+      "category": "Bronie białe",
+      "defname": "MeleeWeapon_PsyfocusStaff",
+      "price": 3333
+    },
+    {
+      "abr": "eltexrobe",
+      "category": "Strój",
+      "defname": "Apparel_PsyfocusRobe",
+      "price": 1000
+    },
+    {
+      "abr": "eltexhelmet",
+      "category": "Nakrycie głowy",
+      "defname": "Apparel_PsyfocusHelmet",
+      "price": 833
+    },
+    {
+      "abr": "aestheticnose",
+      "category": "Bioniczne",
+      "defname": "AestheticNose",
+      "price": 975
+    },
+    {
+      "abr": "piano",
+      "category": "Rekreacja",
+      "defname": "Piano",
+      "price": 1117
+    },
+    {
+      "abr": "gastro-analyzer",
+      "category": "Bioniczne",
+      "defname": "GastroAnalyzer",
+      "price": 1383
+    },
+    {
+      "abr": "corset",
+      "category": "Szlachecki strój",
+      "defname": "Apparel_Corset",
+      "price": 222
+    },
+    {
+      "abr": "stoneskingland",
+      "category": "Bioniczne",
+      "defname": "StoneskinGland",
+      "price": 3200
+    },
+    {
+      "abr": "armorskingland",
+      "category": "Bioniczne",
+      "defname": "ArmorskinGland",
+      "price": 2458
+    },
+    {
+      "abr": "toughskingland",
+      "category": "Bioniczne",
+      "defname": "ToughskinGland",
+      "price": 1717
+    },
+    {
+      "abr": "gunlink",
+      "category": "Nakrycie głowy",
+      "defname": "Apparel_Gunlink",
+      "price": 575
+    },
+    {
+      "abr": "stelliccrown",
+      "category": "Nakrycie głowy",
+      "defname": "Apparel_CrownStellic",
+      "price": 283
+    },
+    {
+      "abr": "harp",
+      "category": "Rekreacja",
+      "defname": "Harp",
+      "price": 408
+    },
+    {
+      "abr": "psychicharmonizer",
+      "category": "Archotyczne",
+      "defname": "PsychicHarmonizer",
+      "price": 1333
+    },
+    {
+      "abr": "cataphracthelmet",
+      "category": "Nakrycie głowy",
+      "defname": "Apparel_ArmorHelmetCataphract",
+      "price": 1242
+    },
+    {
+      "abr": "animusstone",
+      "category": "Różne",
+      "defname": "AnimusStone",
+      "price": 8333
+    },
+    {
+      "abr": "formalvest",
+      "category": "Szlachecki strój",
+      "defname": "Apparel_VestRoyal",
+      "price": 222
+    },
+    {
+      "abr": "harpsichord",
+      "category": "Rekreacja",
+      "defname": "Harpsichord",
+      "price": 692
+    },
+    {
+      "abr": "venomfangs",
+      "category": "Protetyczne",
+      "defname": "VenomFangs",
+      "price": 592
+    },
+    {
+      "abr": "coagulator",
+      "category": "Bioniczne",
+      "defname": "Coagulator",
+      "price": 1717
+    },
+    {
+      "abr": "ladieshat",
+      "category": "Nakrycie głowy",
+      "defname": "Apparel_HatLadies",
+      "price": 203
+    },
+    {
+      "abr": "brazier",
+      "category": "Meble",
+      "defname": "Brazier",
+      "price": 167
+    },
+    {
+      "abr": "kneespike",
+      "category": "Protetyczne",
+      "defname": "KneeSpike",
+      "price": 592
+    },
+    {
+      "abr": "crown",
+      "category": "Nakrycie głowy",
+      "defname": "Apparel_Crown",
+      "price": 322
+    },
+    {
+      "abr": "formalshirt",
+      "category": "Szlachecki strój",
+      "defname": "Apparel_ShirtRuffle",
+      "price": 253
+    },
+    {
+      "abr": "aestheticshaper",
+      "category": "Bioniczne",
+      "defname": "AestheticShaper",
+      "price": 1383
+    },
+    {
+      "abr": "elbowblade",
+      "category": "Protetyczne",
+      "defname": "ElbowBlade",
+      "price": 592
+    },
+    {
+      "abr": "warhammer",
+      "category": "Bronie białe",
+      "defname": "MeleeWeapon_Warhammer",
+      "price": 608
+    },
+    {
+      "abr": "zeushammer",
+      "category": "Bronie białe",
+      "defname": "MeleeWeapon_Zeushammer",
+      "price": 3333
+    },
+    {
+      "abr": "personazeushammer",
+      "category": "Bronie z osobowością",
+      "defname": "MeleeWeapon_ZeusHammerBladelink",
+      "price": 5000
+    },
+    {
+      "abr": "monosword",
+      "category": "Bronie białe",
+      "defname": "MeleeWeapon_MonoSword",
+      "price": 3333
+    },
+    {
+      "abr": "personamonosword",
+      "category": "Bronie z osobowością",
+      "defname": "MeleeWeapon_MonoSwordBladelink",
+      "price": 5000
+    },
+    {
+      "abr": "shiplandingbeacon",
+      "category": "Różne",
+      "defname": "ShipLandingBeacon",
+      "price": 185
+    },
+    {
+      "abr": "largenatureshrine",
+      "category": "Różne",
+      "defname": "NatureShrine_Large",
+      "price": 1183
+    },
+    {
+      "abr": "smallnatureshrine",
+      "category": "Różne",
+      "defname": "NatureShrine_Small",
+      "price": 592
+    },
+    {
+      "abr": "psylinkneuroformer",
+      "category": "Archotyczne",
+      "defname": "PsychicAmplifier",
+      "price": 4333
+    },
+    {
+      "abr": "neurocalculator",
+      "category": "Bioniczne",
+      "defname": "Neurocalculator",
+      "price": 1717
+    },
+    {
+      "abr": "unstablepowercell",
+      "category": "Specjalne",
+      "defname": "UnstablePowerCell",
+      "price": 667
+    },
+    {
+      "abr": "mindscrew",
+      "category": "Protetyczne",
+      "defname": "Mindscrew",
+      "price": 350
+    },
+    {
+      "abr": "plasmasword",
+      "category": "Bronie białe",
+      "defname": "MeleeWeapon_PlasmaSword",
+      "price": 3333
+    },
+    {
+      "abr": "personaplasmasword",
+      "category": "Bronie z osobowością",
+      "defname": "MeleeWeapon_PlasmaSwordBladelink",
+      "price": 5000
+    },
+    {
+      "abr": "orbitalmechclustertargeter",
+      "category": "Użytkowe",
+      "defname": "OrbitalTargeterMechCluster",
+      "price": 2000
+    },
+    {
+      "abr": "drape",
+      "category": "Meble",
+      "defname": "Drape",
+      "price": 608
+    },
+    {
+      "abr": "cape",
+      "category": "Szlachecki strój",
+      "defname": "Apparel_Cape",
+      "price": 367
+    },
+    {
+      "abr": "jumppack",
+      "category": "Użytkowe",
+      "defname": "Apparel_PackJump",
+      "price": 1075
+    },
+    {
+      "abr": "low-shieldpack",
+      "category": "Użytkowe",
+      "defname": "Apparel_PackBroadshield",
+      "price": 717
+    },
+    {
+      "abr": "prestigesiegebreakerarmor",
+      "category": "Zbroja",
+      "defname": "VAE_Apparel_RoyalSiegeArmor",
+      "price": 6758
+    },
+    {
+      "abr": "prestigesiegebreakerhelmet",
+      "category": "Nakrycie głowy",
+      "defname": "VAE_Headgear_RoyalSiegeHelmet",
+      "price": 1958
+    },
+    {
+      "abr": "prestigetrooperarmor",
+      "category": "Zbroja",
+      "defname": "VAE_Apparel_RoyalTrooperArmor",
+      "price": 2425
+    },
+    {
+      "abr": "prestigetrooperhelmet",
+      "category": "Nakrycie głowy",
+      "defname": "VAE_Headgear_RoyalTrooperHelmet",
+      "price": 992
+    },
+    {
+      "abr": "prestigerobe",
+      "category": "Szlachecki strój",
+      "defname": "Apparel_RobeRoyal",
+      "price": 450
+    },
+    {
+      "abr": "prestigecataphractarmor",
+      "category": "Zbroja",
+      "defname": "Apparel_ArmorCataphractPrestige",
+      "price": 6550
+    },
+    {
+      "abr": "prestigemarinearmor",
+      "category": "Zbroja",
+      "defname": "Apparel_ArmorMarinePrestige",
+      "price": 4217
+    },
+    {
+      "abr": "prestigereconarmor",
+      "category": "Zbroja",
+      "defname": "Apparel_ArmorReconPrestige",
+      "price": 3292
+    },
+    {
+      "abr": "prestigecataphracthelmet",
+      "category": "Nakrycie głowy",
+      "defname": "Apparel_ArmorHelmetCataphractPrestige",
+      "price": 1925
+    },
+    {
+      "abr": "prestigemarinehelmet",
+      "category": "Nakrycie głowy",
+      "defname": "Apparel_ArmorMarineHelmetPrestige",
+      "price": 1417
+    },
+    {
+      "abr": "prestigereconhelmet",
+      "category": "Nakrycie głowy",
+      "defname": "Apparel_ArmorHelmetReconPrestige",
+      "price": 1192
+    },
+    {
+      "abr": "circadianhalf-cycler",
+      "category": "Bioniczne",
+      "defname": "CircadianHalfCycler",
+      "price": 1717
+    },
+    {
+      "abr": "shieldcore",
+      "category": "Przedmioty",
+      "defname": "BroadshieldCore",
+      "price": 583
+    },
+    {
+      "abr": "axe",
+      "category": "Bronie białe",
+      "defname": "MeleeWeapon_Axe",
+      "price": 209
+    },
+    {
+      "abr": "handtalon",
+      "category": "Protetyczne",
+      "defname": "HandTalon",
+      "price": 592
+    },
+    {
+      "abr": "venomtalon",
+      "category": "Protetyczne",
+      "defname": "VenomTalon",
+      "price": 592
+    },
+    {
+      "abr": "psytrainer(wordofinspiration)",
+      "category": "Trenery PSI",
+      "defname": "Psytrainer_WordOfInspiration",
+      "price": 1417
+    },
+    {
+      "abr": "psytrainer(wordoflove)",
+      "category": "Trenery PSI",
+      "defname": "Psytrainer_WordOfLove",
+      "price": 917
+    },
+    {
+      "abr": "psytrainer(wordofjoy)",
+      "category": "Trenery PSI",
+      "defname": "Psytrainer_WordOfJoy",
+      "price": 667
+    },
+    {
+      "abr": "psytrainer(wordofserenity)",
+      "category": "Trenery PSI",
+      "defname": "Psytrainer_WordOfSerenity",
+      "price": 1167
+    },
+    {
+      "abr": "psytrainer(wordoftrust)",
+      "category": "Trenery PSI",
+      "defname": "Psytrainer_WordOfTrust",
+      "price": 417
+    },
+    {
+      "abr": "meditationthrone",
+      "category": "Meble",
+      "defname": "Throne",
+      "price": 475
+    },
+    {
+      "abr": "vanometricgrav-pack",
+      "category": "Użytkowe",
+      "defname": "SGC_Apparel_Jetpack",
+      "price": 2783
+    },
+    {
+      "abr": "mechnode",
+      "category": "Specjalne",
+      "defname": "Gloomlight",
+      "price": 333
+    },
+    {
+      "abr": "grandmeditationthrone",
+      "category": "Meble",
+      "defname": "GrandThrone",
+      "price": 2492
+    },
+    {
+      "abr": "drillarm",
+      "category": "Protetyczne",
+      "defname": "DrillArm",
+      "price": 708
+    },
+    {
+      "abr": "circadianassistant",
+      "category": "Bioniczne",
+      "defname": "CircadianAssistant",
+      "price": 1717
+    },
+    {
+      "abr": "healingenhancer",
+      "category": "Bioniczne",
+      "defname": "HealingEnhancer",
+      "price": 1717
+    },
+    {
+      "abr": "loveenhancer",
+      "category": "Bioniczne",
+      "defname": "LoveEnhancer",
+      "price": 1717
+    },
+    {
+      "abr": "learningassistant",
+      "category": "Bioniczne",
+      "defname": "LearningAssistant",
+      "price": 1717
+    },
+    {
+      "abr": "immunoenhancer",
+      "category": "Bioniczne",
+      "defname": "Immunoenhancer",
+      "price": 1717
+    },
+    {
+      "abr": "psychicsensitizer",
+      "category": "Archotyczne",
+      "defname": "PsychicSensitizer",
+      "price": 1667
+    },
+    {
+      "abr": "phoenixarmor",
+      "category": "Zbroja",
+      "defname": "Apparel_ArmorCataphractPhoenix",
+      "price": 5800
+    },
+    {
+      "abr": "grenadierarmor",
+      "category": "Zbroja",
+      "defname": "Apparel_ArmorMarineGrenadier",
+      "price": 3842
+    },
+    {
+      "abr": "cataphractarmor",
+      "category": "Zbroja",
+      "defname": "Apparel_ArmorCataphract",
+      "price": 5200
+    },
+    {
+      "abr": "locustarmor",
+      "category": "Zbroja",
+      "defname": "Apparel_ArmorLocust",
+      "price": 3717
+    },
+    {
+      "abr": "detoxifierstomach",
+      "category": "Bioniczne",
+      "defname": "DetoxifierStomach",
+      "price": 1717
+    },
+    {
+      "abr": "nuclearstomach",
+      "category": "Bioniczne",
+      "defname": "NuclearStomach",
+      "price": 1717
+    },
+    {
+      "abr": "reprocessorstomach",
+      "category": "Bioniczne",
+      "defname": "ReprocessorStomach",
+      "price": 1717
+    },
+    {
+      "abr": "zombrella",
+      "category": "Różne",
+      "defname": "Zombrella",
+      "price": 3333
     }
   ],
-  "total": 1784
+  "total": 1806
 }
